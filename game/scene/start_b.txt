@@ -1,0 +1,3 @@
+:…一直以来，我都很讨厌语文。这种讨厌，像藤蔓一样缠绕在骨子里，从很小的时候就开始了。 -fontSize=default;
+:因为 -fontSize=default;
+choose:死记硬背的折磨:scene1/scene1_1/scene_1_1_a.txt|从小就不喜欢:scene1/scene1_1/scene_1_1_b.txt|碰见糟糕老师:scene1/scene1_1/scene_1_1_c.txt|讨厌记叙文:scene1/scene1_1/scene_1_1_d.txt;

@@ -1,0 +1,8 @@
+
+miniAvatar:chen.png;
+changeFigure: -next;
+changeFigure:chen/chen_kh/punica12kh.png -id=chen -transform={"position":{"y":180}} -next;
+setAnimation:jump -target=chen -next;
+陈圆圆:哈哈，我去水房请你喝到饱。;
+miniAvatar:none;
+changeScene:scene1/scene1_4/scene1_4.txt

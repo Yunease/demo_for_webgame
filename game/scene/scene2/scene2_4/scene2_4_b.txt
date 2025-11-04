@@ -1,0 +1,8 @@
+
+miniAvatar:ji.png;
+changeFigure:ji/ji_q/jsam03Q.png -id=ji -transform={"position":{"x":850,"y":180}} -next;
+季明月:嗯哼。;
+miniAvatar:none;
+changeFigure: -id=ji -next;
+setTextbox:hide;
+changeScene:scene2/scene2_5/scene2_5.txt

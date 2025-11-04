@@ -1,0 +1,3 @@
+:尤其是这个！ -fontSize=default;
+:每一次写赏析记叙文，都像是一场公开处刑，暴露着我的无趣和贫瘠，去供人审视、打分。 -fontSize=default;
+changeScene:scene1/scene1_1/scene_1_1.txt
