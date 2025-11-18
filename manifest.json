@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
   "name": "欢迎来到八股文学社",
   "short_name": "欢迎来到八股文学社",
+=======
+  "name": "欢迎使用WebGAL！",
+  "short_name": "欢迎使用WebGAL！",
+>>>>>>> 44579470d034cf9e155d2fff6db9b89cb9fdcc27
   "start_url": ".",
   "display": "fullscreen",
   "description": "这只是一个demo",

@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 {
   "name": "gal",
   "id": "e4e1fabe-f215-47c7-a2c4-0419e0f89635",
   "webgal-version": "4.5.11"
+=======
+{
+  "name": "gal",
+  "id": "e4e1fabe-f215-47c7-a2c4-0419e0f89635",
+  "webgal-version": "4.5.11"
+>>>>>>> 44579470d034cf9e155d2fff6db9b89cb9fdcc27
 }

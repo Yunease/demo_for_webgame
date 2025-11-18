@@ -17,7 +17,11 @@ cursor: pointer;
 padding: 0px 0px 0px 0px;
 min-width: 180px;
 font-size: 265%;
+<<<<<<< HEAD
 color: #000000FF;
+=======
+color: #8E354A;
+>>>>>>> 44579470d034cf9e155d2fff6db9b89cb9fdcc27
 text-align: center;
 border-radius: 4px;
 background: url("game/template/assets/button.png") no-repeat left top;
@@ -38,7 +42,11 @@ cursor: pointer;
 padding: 0px 0px 0px 0px;
 min-width: 180px;
 font-size: 265%;
+<<<<<<< HEAD
 color: #000000FF;
+=======
+color: #8E354A;
+>>>>>>> 44579470d034cf9e155d2fff6db9b89cb9fdcc27
 text-align: center;
 border-radius: 4px;
 background: url("game/template/assets/button.png") no-repeat left top;
@@ -48,6 +56,7 @@ margin: 10px 10px 0px 10px;
 height: 110px;
 line-height: 100px;
 max-width: 100%;
+<<<<<<< HEAD
 }
 
 .Choose_item_outer {
@@ -177,3 +186,39 @@ color: #000;
 
 
 
+=======
+
+}
+
+.Choose_item_outer {
+color: #000;
+min-width: 50%;
+}
+
+.Choose_item_outer_chen_for2{
+  color: #000;
+  min-width: 50%;
+    &:nth-child(2) {
+        &>:first-child{
+            background: url("game/template/assets/button_chen.png") no-repeat left top;
+            background-size: 100% 100%;
+        }
+        &:hover {
+            background-size: 100% 100%;
+        }
+  }
+}
+
+.Choose_Main_text{
+    position: absolute;
+    width: 150px;
+    height: 30px;
+    right: 130px;
+    top: 700px;
+}
+
+.Choose_item_text{
+    margin: 50px 0 50px 0;
+    color: #000;
+}
+>>>>>>> 44579470d034cf9e155d2fff6db9b89cb9fdcc27

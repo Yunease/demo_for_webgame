@@ -1,0 +1,2 @@
+:也许吧。当别的孩子沉浸在故事的奇妙冒险里时，我却对那些繁杂的形容词感到烦躁。|一门需要特殊天赋才能精通的技艺，而我，显然是没什么天赋。 -fontSize=default;
+changeScene:scene1/scene1_1/scene_1_1.txt
