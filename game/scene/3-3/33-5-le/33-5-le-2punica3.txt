@@ -1,0 +1,14 @@
+
+changeFigure:ji/ji_n/jsam01N.png -id=ji -transform={"position":{"y":180}} -next;
+miniAvatar:ji.png;
+季明月:今天吗？今天我要看看她们俩的作文卷子。;
+choose:为什么只看她们的？:选择场景文件|你不看看我的作文吗:选择场景文件;
+changeFigure:ji/ji_n/jsam02N.png -id=ji -transform={"position":{"y":180}} -next;
+季明月:哦？可以看啊。;
+bgm:music_bgm/moon-piano.mp3;
+changeFigure:ji/ji_x/jsam03X.png -id=ji -transform={"position":{"y":180}} -next;
+季明月:不过， 你  真的 写 了 吗 ？;
+changeFigure:none -id=ji -transform={"position":{"y":180}} -next;
+ :  -notend;
+miniAvatar:none;
+changeScene:3-3/33-5-le/33-5-le-2punica4.txt

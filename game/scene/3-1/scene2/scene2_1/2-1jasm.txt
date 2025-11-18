@@ -1,0 +1,4 @@
+
+changeFigure:ji/jsamblakQ.png -transform={"position":{"y":180}} -next;
+？？？:或许，你需要一些提示？;
+choose:我超勇的，我要自己做:3-1/scene2/scene2_1/2-1jasm-no.txt|给我一点提示吧:3-1/scene2/scene2_1/2-1jasm-help.txt;

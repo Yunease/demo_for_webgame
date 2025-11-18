@@ -1,0 +1,10 @@
+applyStyle:Choose_item_outer->Choose_item_outer;
+changeFigure:ji/ji_n/jsam03N.png -transform={"position":{"y":180}} -next;
+miniAvatar:ji.png;
+季明月:看来你对她还不是很了解呢，明明是青梅竹马，却对对方喜欢吃什么完全没有印象。;
+miniAvatar:none;
+:她用手在空气里画了一个“×”。;
+miniAvatar:ji.png;
+changeFigure:ji/ji_q/jsam03Q.png -transform={"position":{"y":180}} -next;
+季明月:竹马君，这点不合格哦。;
+changeScene:3-2/32-6food/32-6food-4/32-6food-4.txt

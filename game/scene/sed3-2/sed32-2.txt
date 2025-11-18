@@ -1,0 +1,22 @@
+
+███:【检测到玩家异常行为，准备终止游戏】;
+changeFigure:none;
+███:if (playerBehavior.analyze().getDeviationLevel() > CRITICAL_VALUE) {;
+███:TerminationProtocol.prepare(GameSession.current());
+？？？:if (Authority.verify("JASM", PermissionLevel.ROOT)) {;
+miniAvatar:ji.png;
+changeFigure:ji/ji_n/jsam04N.png -transform={"position":{"y":180}} -next;
+季明月:暂停终止指令;
+changeFigure:ji/ji_q/jsam03Q.png -transform={"position":{"y":180}} -next;
+季明月:怎么， 你 难道要质疑{pname}的选择？;
+changeFigure:ji/ji_x/jsam03X.png -transform={"position":{"y":180}} -next;
+季明月:TerminationProtocol.suspend();;
+季明月:player.grantPermission(| Permission.DATABASE_MODIFICATION | Permission.REALITY_REPROGRAMMING;
+miniAvatar:none;
+███:............;
+███:GameSession.current().continueWith(| new Soundtrack("Beethoven_Op23"),|new RealityState("FRAGMENTED");
+███:取消终止，继续游戏;
+changeFigure:none -transform={"position":{"y":180}} -next;
+: ;
+changeBg:black.png;
+changeScene:sed3-2/sed32-3.txt

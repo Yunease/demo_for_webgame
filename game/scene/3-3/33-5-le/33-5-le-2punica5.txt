@@ -1,0 +1,19 @@
+
+changeFigure:ji/ji_n/jsam01N.png -id=ji -transform={"position":{"y":180}} -next;
+:你转过头来看季明月。;
+changeFigure:ji/ji_x/jsam03X.png -id=ji -transform={"position":{"y":180}} -next;
+miniAvatar:ji.png;
+季明月:我知道你在想什么，她们不知道我们在聊的内容。;
+choose:既然不学习:选择场景文件|那这个社团的意义是什么？:选择场景文件;
+changeFigure:ji/ji_n/jsam02N.png -id=ji -transform={"position":{"y":180}} -next;
+季明月:也许只是为了一边聊天一边写作业？我的本意并非搞一个作文集训营。;
+changeFigure:ji/ji_q/jsam02Q.png -id=ji -transform={"position":{"y":180}} -next;
+我只是觉得，人生还是需要一些惊喜和宽慰的。;
+changeFigure:ji/ji_q/jsam01Q.png -id=ji -transform={"position":{"y":180}} -next;
+比如你看见食堂突然上新了一道甜甜花酿鸡，你会去试试吗？;
+choose:会:选择场景文件|不会:选择场景文件|也许吧:选择场景文件;
+changeFigure:ji/ji_n/jsam02N.png -id=ji -transform={"position":{"y":180}} -next;
+季明月:人生如此漫长，如果每一件事都要寻求意义，或许有些疲惫。;
+changeFigure:ji/ji_n/jsam01N.png -id=ji -transform={"position":{"y":180}} -next;
+{pname}，你喜欢这个文学社吗？;
+choose:或许没有烧脑的作文题我就喜欢了:3-3/33-5-le/33-5-le-3maybe.txt|喜欢:3-3/33-5-le/33-5-le-3like.txt|不喜欢，我要退社:3-3/33-5-le/33-5-le-3dislike.txt;

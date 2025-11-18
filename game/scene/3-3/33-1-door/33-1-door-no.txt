@@ -1,0 +1,6 @@
+applyStyle:Choose_item_outer->Choose_item_outer;
+:我有时常常在想，大学、上班、结婚、生子...人生是否就是这样，犹如铁轨上鸣叫的火车，每天所做的一切，都只是为了正常地运行而不脱离轨道。;
+:我背起书包往学校走去。;
+changeBg:black.png -next;
+pixiInit;
+changeScene:3-3/33-2-classroom/33-2-classroom.txt

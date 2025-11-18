@@ -1,0 +1,29 @@
+
+bgm:none -enter=10000;
+changeFigure:none -next;
+changeBg:literature/literature04.jpg -next;
+choose:我明白了:选择场景文件|今天谢谢你帮我们看作文:选择场景文件;
+bgm:none -enter=10000;
+changeFigure:chen/chen_hk/punica06hk.png -left -id=chen -transform={"position":{"y":180}} -next;
+changeFigure:ji/ji_n/jsam01N.png -id=ji -transform={"position":{"y":180}} -next;
+changeFigure:jia/jia_all/muta-W.png -right -id=jia -transform={"position":{"y":180}} -next;
+miniAvatar:ji.png;
+季明月:没什么，明天你们把答题卡带过来吧，我看着你们的作文具体有什么问题。;
+changeFigure:ji/ji_n/jsam02N.png -id=ji -transform={"position":{"y":180}} -next;
+季明月:快去吃饭吧，再不走就晚了。;
+changeFigure:chen/chen_kh/punica12kh.png -left -id=chen -transform={"position":{"y":180}} -next;
+miniAvatar:chen.png;
+陈圆圆:好耶！拜拜明月！;
+changeFigure:ji/ji_n/jsam01N.png -id=ji -transform={"position":{"y":180}} -next;
+miniAvatar:ji.png;
+季明月:拜拜~;
+changeFigure:chen/chen_kk/punica14kk.png -left -id=chen -transform={"position":{"y":180}} -next;
+miniAvatar:chen.png;
+{pname}，我们走吧，今天食堂好像有红烧肉呢~;
+changeFigure: -id=ji -next;
+changeFigure: -right -id=jia -next;
+changeFigure: -left -id=chen -transform={"position":{"y":180}} -next;
+miniAvatar:none;
+:说话间，外面传来稀稀拉拉的人流声。;
+:这是高三要下课了，再不去就要排好久的队。事不宜迟，我赶紧把那张纸塞到裤兜里，拉开劳动教室的门准备抢占先机。;
+changeScene:3-2/32-5zl/32-5zl-1.txt

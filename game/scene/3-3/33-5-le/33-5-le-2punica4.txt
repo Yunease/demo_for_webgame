@@ -1,0 +1,21 @@
+
+changeFigure:jia/jia_all/muta01k.png -right -id=jia -transform={"position":{"x":-400,"y":180}} -next;
+changeFigure:chen/chen_hk/punica06hk.png -left -id=chen -transform={"position":{"x":400,"y":180}} -next;
+:你朝陈圆圆和贾玉婕看去，发现她俩正在对着贾玉婕的盒饭聊得热火朝天。;
+miniAvatar:chen.png;
+changeFigure:chen/chen_hk/punica01hk.png -left -id=chen -transform={"position":{"x":400,"y":180}} -next;
+陈圆圆:你每天带好几个饭盒啊，如果早上带来，晚上不会坏嘛？;
+miniAvatar:jia.png;
+changeFigure:jia/jia_all/muta02k.png -right -id=jia -transform={"position":{"x":-400,"y":180}} -next;
+贾玉婕:下午大课间的时候，我家保姆会来送一次晚饭。;
+miniAvatar:chen.png;
+changeFigure:chen/chen_kk/punica08kk.png -left -id=chen -transform={"position":{"x":400,"y":180}} -next;
+陈圆圆:原来是这样！那你岂不是想吃啥吃啥，好幸福...;
+miniAvatar:jia.png;
+changeFigure:jia/jia_all/muta-W.png -right -id=jia -transform={"position":{"x":-400,"y":180}} -next;
+贾玉婕:那倒没有，我一般家里做什么就吃什么。;
+:  -notend;
+changeFigure:none -left -id=chen -transform={"position":{"x":-400,"y":180}} -next;
+changeFigure:none -right -id=jia -transform={"position":{"x":-400,"y":180}} -next;
+miniAvatar:none;
+changeScene:3-3/33-5-le/33-5-le-2punica5.txt

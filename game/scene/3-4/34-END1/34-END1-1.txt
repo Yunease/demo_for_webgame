@@ -1,0 +1,26 @@
+
+bgm:none;
+changeBg:classroom/classroom03.jpg;
+:无所谓，对于高三生而言，学习才是最重要的。我拿起书本，在嘈杂的人声中静下心来，开始了今天的课业。;
+:先写季明月给我们布置的作文特训吧，放学后可以去找她对答案。;
+:  -notend;
+playEffect:ding-T .mp3;
+changeBg:T-minus/5.png;
+playEffect:ding-T .mp3;
+changeBg:T-minus/6.png;
+playEffect:ding-T .mp3;
+changeBg:T-minus/7.png;
+playEffect:ding-T .mp3;
+changeBg:T-minus/8.png;
+playEffect:ding-T .mp3;
+changeBg:T-minus/9.png;
+playEffect:ding-T .mp3;
+changeBg:T-minus/10.png;
+playEffect:ding-T .mp3;
+changeBg:T-minus/11.png;
+playEffect:ding-T .mp3;
+changeBg:T-minus/12.png;
+changeBg:classroom/classroom01.jpg -next;
+某同学:喂，你听说了吗，清北班最近又死一个。;
+ :  -notend;
+choose:听下去:3-4/34-END1/34-END1-2yes.txt|不听:3-4/34-END1/34-END1-3.txt;

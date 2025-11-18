@@ -1,0 +1,9 @@
+changeFigure:none;
+
+miniAvatar:ji.png;
+changeFigure:ji/ji_q/jsam03Q.png -id=ji -transform={"position":{"x":850,"y":180}} -next;
+季明月:你说每天如果不好好写作业的话，最后高考会怎么样呢？;
+miniAvatar:none;
+changeFigure: -left -id=ji -next;
+:  -notend;
+changeScene:3-1/scene2/scene2_5/scene2_5.txt

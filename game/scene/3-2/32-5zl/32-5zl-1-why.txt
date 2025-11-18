@@ -1,0 +1,9 @@
+applyStyle:Choose_item_outer->Choose_item_outer;
+setVar:fa_ji=fa_ji+1;
+changeFigure:ji/ji_n/jsam02N.png -transform={"position":{"y":180}} -next;
+miniAvatar:ji.png;
+季明月:或许只是想了解一下你？;
+changeFigure:ji/ji_q/jsam01Q.png -transform={"position":{"y":180}} -next;
+季明月:某种意义上，你很特别，我对你的一切充满好奇;
+你没有拒绝我...不如我们边走边说？;
+changeScene:3-2/32-6food/32-6food-1/32-6food-1.txt

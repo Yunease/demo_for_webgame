@@ -1,0 +1,8 @@
+
+changeFigure:ji/jsamblakQ.png -transform={"position":{"y":180}} -next;
+？？？:哈哈，我很期待你的答卷。;
+: -notend;
+changeFigure:none -next;
+changeBg:3月1日/new_考试卷.png;
+
+changeScene:3-1/scene2/scene2_1/2-1jasm_choose.txt;

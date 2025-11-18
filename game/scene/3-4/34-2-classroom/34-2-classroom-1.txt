@@ -1,0 +1,24 @@
+
+changeBg:black.png;
+changeBg:classroom/classroom03.jpg -next;
+:我来到教室。;
+:因为出发迟了，同学们已经开始站起来早读。我看向陈圆圆的座位，有书包但是没有人。;
+:我费劲地在一根根读书的菜苗中穿梭，给各个课代表递上作业。;
+changeFigure:jia/jia_all/muta-W.png -transform={"position":{"y":180}} -next;
+:等到走到物理课代表贾玉婕面前，我停下来递上物理作业。;
+choose:贾玉婕:选择场景文件|你看见圆圆去哪了吗？:选择场景文件;
+changeFigure:jia/jia_all/muta02k.png -transform={"position":{"y":180}} -next;
+miniAvatar:jia.png;
+贾玉婕:她今天一来就去老师办公室了。;
+贾玉婕:你找她吗？;
+choose:我今天早上没碰见她:选择场景文件|有点奇怪:选择场景文件;
+changeFigure:jia/jia_all/muta-W.png -transform={"position":{"y":180}} -next;
+贾玉婕:好像她这次考的不太好，早上她来的时候就不太开心。;
+choose:我知道了:选择场景文件|谢谢你:选择场景文件;
+changeFigure:none -transform={"position":{"y":180}} -next;
+miniAvatar:none;
+:贾玉婕向你点了点头，然后继续跟大家一起早读。;
+:我总觉的放心不下，要不要去看看呢？;
+:  -notend;
+applyStyle:Choose_item_outer->Choose_item_outer_chen_for1;
+choose:去:3-4/34-2-classroom/34-2-classroom-go.txt|不去:3-4/34-2-classroom/34-2-classroom-no.txt;

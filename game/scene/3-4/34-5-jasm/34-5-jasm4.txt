@@ -1,0 +1,22 @@
+
+choose:为什么会这样...:选择场景文件|我不想要这样的结局...:选择场景文件;
+choose:什么她要选择死亡？:选择场景文件;
+changeFigure:ji/ji_q/jsam05Q.png -transform={"position":{"y":180}} -next;
+miniAvatar:ji.png;
+季明月:或许，在文学社的这段时间得到的微小的快乐，不足以抵消她的痛苦吧......;
+changeFigure:ji/ji_n/jsam05N.png -transform={"position":{"y":180}} -next;
+miniAvatar:none;
+:她抬起头，和你一起看向远方，尽管现在，那里已经变成了一片虚无。;
+changeFigure:ji/ji_q/jsam06Q.png -transform={"position":{"y":180}} -next;
+miniAvatar:ji.png;
+季明月:她是如此地深爱她的家人，又因为他们对她的厌恶而憎恨自己。;
+changeFigure:ji/ji_q/jsam05Q.png -transform={"position":{"y":180}} -next;
+季明月:她喜欢你，但是这种喜欢抵御不了她的痛苦。;
+choose:爱和恨:选择场景文件|痛苦和快乐:选择场景文件|真的能相抵吗？:选择场景文件;
+changeFigure:ji/ji_n/jsam06N.png -transform={"position":{"y":180}} -next;
+miniAvatar:none;
+:她沉默了。;
+bgm:none -enter=1000;
+changeFigure: -next;
+:  -notend;
+changeScene:3-4/34-6-choose/34-6-choose1.txt

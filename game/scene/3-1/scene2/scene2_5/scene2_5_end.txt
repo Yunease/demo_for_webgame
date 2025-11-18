@@ -1,0 +1,9 @@
+
+:她向你莞尔一笑。;
+miniAvatar:ji.png;
+changeFigure:ji/ji_x/jsam03X.png -right -id=ji -transform={"position":{"x":-700,"y":180}} -next;
+季明月:祝你在这里玩得开心，{pname}。;
+:  -notend;
+miniAvatar:none;
+changeFigure: -id=ji -next;
+changeScene:3-2/32-1out-door/32out-door.txt

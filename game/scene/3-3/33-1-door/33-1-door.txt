@@ -1,0 +1,14 @@
+
+playEffect:ding-T .mp3;
+changeBg:black.png;
+changeBg:T-minus/3.png;
+changeBg:winter/winter01.jpg;
+pixiPerform:snow;
+:三月一日-小雪。;
+:一如既往的早上，一如既往的冬天，不一样的雪花。;
+:一夜过去，路面像馒头一样发起来了。;
+:二模的好日子结束了，接下来是没日没夜的学习时间：从早上九点到学校，到晚上十一点下晚自习。;
+:每天早上出门，天还没亮。;
+:今天圆圆没有在门口等我...我要不要等会她呢？;
+applyStyle:Choose_item_outer->Choose_item_outer_chen_for1;
+choose:等:3-3/33-1-door/33-1-door-wait.txt|不等:3-3/33-1-door/33-1-door-no.txt;

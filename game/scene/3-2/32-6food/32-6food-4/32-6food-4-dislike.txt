@@ -1,0 +1,15 @@
+applyStyle:Choose_item_outer->Choose_item_outer;
+bgm:none;
+changeFigure:ji/ji_n/jsam04N.png -transform={"position":{"y":180}} -next;
+miniAvatar:ji.png;
+季明月:......;
+季明月:好吧，那这份盒饭还是我去送给她吧。;
+changeFigure:none -next;
+miniAvatar:none;
+:她勾了勾手指让盒饭重新回到她的手上，只甩给了你一个背影。;
+:于是你把视线又转移到了今天的晚饭上，开始机械地往嘴里扒拉。;
+:写完今天的作业还要写错题本，今天写英语作文不小心写错了几个衔接的单词，还要重新背一下...;
+:高三的时间是如此地珍贵，盘算着盘算着，你不禁加快了吃饭的速度。;
+: ;
+changeBg:black.png -next;
+changeScene:3-3/33-1-door/33-1-door.txt

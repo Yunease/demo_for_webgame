@@ -1,0 +1,15 @@
+setVar:fa_chen=fa_chen+1;
+applyStyle:Choose_item_outer->Choose_item_outer;
+changeFigure:chen/chen_hk/punica02hk.png -transform={"position":{"y":180}} -next;
+陈圆圆:诶？{pname}...;
+miniAvatar:none;
+:她惊讶了一下，没有反对也没有制止你。你用手搓一搓她不知道因为什么而变红的脸蛋，软软的，在冰冷的冬天散发出一股若有若无的热意。 -fontSize=default;
+:不知为何，一股宁静在你俩周围凝聚，谁也不愿意打破。;
+:直到圆圆看了一眼手表，才躲开你的手。;
+miniAvatar:chen.png;
+changeFigure:chen/chen_hh/punica04hh.png -transform={"position":{"y":180}} -next;
+陈圆圆:别...别捏啦！再不走要迟到了！;
+changeFigure:none;
+  -notend;
+miniAvatar:none;
+changeScene:3-1/scene1/scene1_3/scene1_3.txt

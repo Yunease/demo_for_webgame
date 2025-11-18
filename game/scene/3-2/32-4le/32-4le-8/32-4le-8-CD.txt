@@ -1,0 +1,21 @@
+
+changeBg:三月二使用/电子屏三月二日04C.png -next;
+changeFigure:ji/ji_b/jsam01B.png -transform={"position":{"x":950,"y":180}} -next;
+miniAvatar:ji.png;
+季明月:你们来评价一下？;
+changeFigure:chen/chen_hk/punica02hk.png -transform={"position":{"x":950,"y":180}} -next;
+miniAvatar:chen.png;
+陈圆圆:P，我感觉你跑题了诶。;
+changeFigure:jia/jia_all/muta-W.png -transform={"position":{"x":900,"y":180}} -next;
+miniAvatar:jia.png;
+贾玉婕:确实，感觉和“赠梦”没什么关系，不太扣题。;
+miniAvatar:none;
+:冷汗“唰”地从我背后降临。;
+changeFigure:ji/ji_q/jsam06Q.png -transform={"position":{"x":950,"y":180}} -next;
+:完了，作文居然跑题了。我胆战心惊地看向季明月。;
+miniAvatar:ji.png;
+季明月:不行，这是明显的没有认真审题，写出来也只有43分以下。;
+标题和三个分论点都在集中论述梦想的功能和意义，这更像是在写“人为什么要有梦想”。;
+文章通篇如此，即便写得再好，也会因偏离“赠予”这一核心而降分。;
+你没有认真审题哦，下次要好好读材料了。;
+changeScene:3-2/32-4le/32-4le-9.txt

@@ -1,0 +1,12 @@
+
+changeFigure:none;
+changeBg:三月二使用/电子屏三月二日03.png;
+changeFigure:jia/jia_all/muta-W.png -transform={"position":{"x":900,"y":180}} -next;
+miniAvatar:jia.png;
+贾玉婕:这是我总结的。;
+miniAvatar:none;
+:贾玉婕紧张地看着我们三个。;
+changeFigure:ji/ji_b/jsam01B.png -transform={"position":{"x":950,"y":180}} -next;
+miniAvatar:ji.png;
+季明月:你们俩谁来评价一下？;
+choose:我:3-2/32-4le/32-4le-5/32-4le-5-me.txt|看向陈圆圆:3-2/32-4le/32-4le-5/32-4le-5-punica.txt;

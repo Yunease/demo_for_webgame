@@ -1,0 +1,2 @@
+setVar:temp_text=3;
+changeScene:3-1/scene2/scene2_1/scene2_1_a.txt;

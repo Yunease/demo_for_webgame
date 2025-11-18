@@ -1,0 +1,28 @@
+unlockCg:jianshang/鉴赏_chen.png -name=陈圆圆;
+unlockCg:jianshang/鉴赏_ji.png -name=季明月;
+unlockCg:jianshang/鉴赏_jia.png -name=贾玉婕;
+:【重要游戏提示】;
+:虚拟内容说明：本游戏所有内容均为虚构创作，与现实中的事件、人物及团体无关。;
+:光敏性警示：游戏包含闪烁灯光及快速变换的画面效果，光敏性癫痫患者或有相关病史的玩家请谨慎游玩。;
+:敏感内容警示：游戏情节涉及对自杀场面的描绘，请根据您的心理承受能力谨慎选择。;
+choose:是，我已知悉所有:选择场景文件|否，我不能承受:tip-end.txt;
+:  -notend;
+changeBg:getname.png -next;
+setVar:fa_chen=0;fa=Favorability
+setVar:fa_ji=0;
+setVar:fa_jia=0;
+setVar:pnema='name';
+getUserInput:pname -title=姓名 -buttonText=确认;
+playEffect:ding-T .mp3;
+changeBg:black.png;
+changeBg:T-minus/1.png;
+changeBg:doorway/doorway01.jpg;
+:三月一日-晴。;
+:今天…就是今天了。 -fontSize=default;
+{pname}:这一句是测试输出，用于验证玩家取的名字可以正常显示：我的名字是{pname}。正式版会删除这些调试语句。这一句是测试输出，用于验证玩家取的名字可以正常显示：我的名字是{pname}。正式版会删除这些调试语句。这一句是测试输出，用于验证玩家取的名字可以正常显示：我的名字是{pname}。正式版会删除这些调试语句。;
+:我的手捏住书包的两边，咽了口唾沫。;
+:每一次心跳，都像在倒数计时，敲打着那个无法回避的时刻——二模，高考的预演。;
+:虽然我并不讨厌考试，但是每一次考试都在用事实敲打我——我的语文是在是太差了。;
+:所有科目里，唯独语文，像一块冰冷的巨石，堵在通往“优秀”的路上。;
+:一直以来，我都;
+choose:对语文没什么所谓:start_a.txt|讨厌语文:start_b.txt;

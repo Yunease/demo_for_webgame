@@ -1,0 +1,13 @@
+
+changeBg:doorway/doorway01.jpg -next;
+changeFigure:chen/chen_hk/punica02hk.png -transform={"position":{"y":180}} -next;
+bgm:none;
+miniAvatar:chen.png;
+陈圆圆:诶？P，怎么啦？;
+miniAvatar:none;
+:   -notend;
+playEffect:snow.mp3;
+changeBg:doorway/doorway04.png -next;
+changeFigure:none -transform={"position":{"y":180}};
+changeFigure:chen/chen_kk/punica00kk.png -transform={"position":{"y":180}};
+changeScene:sed3-2/sed32-2.txt

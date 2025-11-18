@@ -1,0 +1,6 @@
+
+changeFigure: -next;
+changeFigure:jia/jia_all/muta-W.png -transform={"position":{"x":850,"y":180}} -next;
+miniAvatar:jia.png;
+贾玉婕:......还可以，就是第三个论点有些臃肿了，感觉一段话论证有点含糊。;
+changeScene:3-2/32-4le/32-4le-3.txt

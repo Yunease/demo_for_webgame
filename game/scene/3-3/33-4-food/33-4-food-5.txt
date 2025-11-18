@@ -1,0 +1,23 @@
+miniAvatar:ji.png;
+changeFigure:ji/ji_n/jsam01N.png -transform={"position":{"y":180}} -next;
+季明月:啊...这个问题可真是出乎我的意料，是因为她不喜欢蘑菇味吗？;
+changeFigure:ji/ji_n/jsam05N.png -transform={"position":{"y":180}} -next;
+季明月:抱歉，其实我也不知道这件事，如果我知道的话会和食堂商量的，比如换成没有味道的金针菇。;
+choose:如果可以的话:选择场景文件|她喜欢吃肉:选择场景文件;
+changeFigure:ji/ji_n/jsam01N.png -transform={"position":{"y":180}} -next;
+季明月:这我还是知道的。;
+changeFigure:none;
+miniAvatar:none;
+changeFigure:ji/ji_q/jsam01Q.png -transform={"position":{"y":180}} -next;
+:她转身，像变戏法一样掏出了一盒粉嘟嘟的盒饭。;
+changeFigure:ji/ji_n/jsam01N.png -transform={"position":{"y":180}} -next;
+miniAvatar:ji.png;
+季明月:这是给她的，拿着吧。;
+choose:谢谢你:选择场景文件;
+changeFigure:ji/ji_n/jsam02N.png -transform={"position":{"y":180}} -next;
+changeFigure:none -next;
+miniAvatar:none;
+bgm:none -enter=1000;
+:她向你笑了一下，便转身消失在了人群中。;
+changeBg:black.png -next;
+changeScene:3-3/33-5-le/33-5-le-1.txt

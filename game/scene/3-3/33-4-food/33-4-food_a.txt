@@ -1,0 +1,2 @@
+setVar:fa_chen=fa_chen+1;
+changeScene:3-3/33-4-food/33-4-food-2.txt;

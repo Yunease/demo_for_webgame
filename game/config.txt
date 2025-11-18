@@ -1,0 +1,9 @@
+Game_name:欢迎来到八股文学社;
+Game_key:badddfd4f1b391;
+Title_img:main.png;
+Title_bgm:music_bgm/moon-piano.mp3;
+Textbox_theme:imss;
+Description:这只是一个demo;
+Enable_Appreciation:true;
+Game_Logo:main.png;
+Default_Language:zh_CN;

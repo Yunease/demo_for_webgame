@@ -1,0 +1,3 @@
+setVar:fa_chen=fa_chen+3;
+applyStyle:Choose_item_outer->Choose_item_outer;
+changeScene:3-3/33-4-food/33-4-food-5.txt;

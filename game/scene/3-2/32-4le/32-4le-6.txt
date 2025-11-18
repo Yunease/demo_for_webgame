@@ -1,0 +1,28 @@
+applyStyle:Choose_item_outer->Choose_item_outer;
+setVar:fa_jia=fa_jia+1;
+changeFigure:jia/jia_all/muta-W.png -transform={"position":{"x":900,"y":180}} -next;
+miniAvatar:none;
+:贾玉婕看向季明月。;
+changeFigure:ji/ji_b/jsam01B.png -transform={"position":{"x":950,"y":180}} -next;
+:季明月拿着白板笔走上讲台，在贾玉婕作文的投屏上开始写写画画。;
+miniAvatar:ji.png;
+季明月:先说优点，立意不错，紧扣了“赠梦”这个主题。;
+changeFigure:jia/jia_all/muta04k.png -transform={"position":{"x":900,"y":180}} -next;
+miniAvatar:jia.png;
+贾玉婕:嗯......;
+changeFigure:ji/ji_b/jsam01B.png -transform={"position":{"x":950,"y":180}} -next;
+miniAvatar:ji.png;
+季明月:但是你二三段没有继续讨论这个主题，而是分别举例论证，如果我是评卷老师，会认为你没有对题目有更深的思考。;
+changeFigure:jia/jia_all/muta02k.png -transform={"position":{"x":900,"y":180}} -next;
+miniAvatar:jia.png;
+贾玉婕:其实是我写完才想起来，第二天还要参加文学社。写的时候感觉是不一样的论述，但是我晚上总结的时候发现好像和第一段没有太大区别...;
+changeFigure:ji/ji_b/jsam01B.png -transform={"position":{"x":950,"y":180}} -next;
+miniAvatar:ji.png;
+季明月:那看来我需要看看你的卷子了，等周四成绩出来再说吧。明天我们要举例论证，如果你觉得不喜欢这个作文框架，你可以重写一个简易的。;
+changeFigure:jia/jia_all/muta04k.png -transform={"position":{"x":900,"y":180}} -next;
+miniAvatar:none;
+:贾玉婕低头看向自己的纸片。;
+changeFigure:jia/jia_all/muta03k.png -transform={"position":{"x":900,"y":180}} -next;
+miniAvatar:jia.png;
+贾玉婕:好，我明白了，谢谢你明月...;
+changeScene:3-2/32-4le/32-4le-7.txt

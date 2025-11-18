@@ -1,0 +1,7 @@
+
+changeBg:black.png;
+intro:虚无正在蚕食这个世界||你们已然站在崩溃的边缘||————————— -fontSize=large -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=typingEffect -delayTime=1500;
+:......;
+:............;
+:..................;
+choose:死了就死了吧，高三生活还要继续:3-4/34-6-choose/34-6-choose1-no.txt|不，我不承认这样的结局:3-4/34-END2/34-END2.txt;

@@ -1,0 +1,36 @@
+
+miniAvatar:none;
+changeFigure:none -id=ji -transform={"position":{"y":180}} -next;
+changeFigure:jia/jia_all/muta03k.png -right -id=jia -transform={"position":{"x":-400,"y":180}} -next;
+changeFigure:chen/chen_kk/punica01kk.png -left -id=chen -transform={"position":{"x":400,"y":180}} -next;
+:她看向另外两个女孩，看着她们开心的样子。;
+changeFigure:none -left -id=chen -transform={"position":{"x":-400,"y":180}} -next;
+changeFigure:none -right -id=jia -transform={"position":{"x":-400,"y":180}} -next;
+changeFigure:ji/ji_n/jsam06N.png -id=ji -transform={"position":{"y":180}} -next;
+miniAvatar:ji.png;
+季明月:{pname}，你或许觉得我“无所不能”，但事实并非如此，我能做到的很少。;
+changeFigure:ji/ji_n/jsam01N.png -id=ji -transform={"position":{"y":180}} -next;
+其实，我只是想让你、我、我们开心一点。;
+changeFigure:ji/ji_n/jsam05N.png -id=ji -transform={"position":{"y":180}} -next;
+穷极我的思考，也只能做到这些了。;
+choose:这样也好:选择场景文件|她们很开心:选择场景文件|我也很开心:选择场景文件;
+changeFigure:ji/ji_n/jsam01N.png -id=ji -transform={"position":{"y":180}} -next;
+季明月:是吗？谢谢你，我...;
+changeFigure:chen/chen_kk/punica01kk.png -left -id=chen -transform={"position":{"y":180}} -next;
+miniAvatar:chen.png;
+bgm:none -enter=1000;
+陈圆圆:明月！我吃好啦，咱们开始吧。;
+changeFigure:none -left -id=chen -transform={"position":{"y":180}} -next;
+miniAvatar:ji.png;
+changeFigure:ji/ji_n/jsam02N.png -id=ji -transform={"position":{"y":180}} -next;
+季明月:好，把你们的答题卡拿出来，我这就来。;
+changeFigure:ji/ji_q/jsam02Q.png -id=ji -transform={"position":{"y":180}} -next;
+季明月:走吧，{pname}，我们去找她们。;
+choose:好:选择场景文件|走吧:选择场景文件;
+changeFigure:ji/ji_n/jsam01N.png -id=ji -transform={"position":{"y":180}} -next;
+季明月:希望你今天过得开心。;
+miniAvatar:none;
+changeFigure:none -id=ji -transform={"position":{"y":180}} -next;
+:  -notend;
+changeBg:black.png;
+changeScene:3-3/33-6-street/33-6-street.txt

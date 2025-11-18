@@ -1,0 +1,15 @@
+
+changeBg:canteen/canteen03.jpg -next;
+bgm:music_bgm/moon-piano.mp3 -enter=1000;
+:顺着人流，我来到了食堂。;
+:或许是心有灵犀，或许是早有预料。;
+:你  看见了  她;
+choose:晚上好，季明月:选择场景文件;
+changeFigure:ji/ji_q/jsam01Q.png -transform={"position":{"y":180}} -next;
+miniAvatar:ji.png;
+季明月:晚上好啊，{pname}，今天怎么一个人来吃，没有约喜欢的女孩子一起来吗？;
+applyStyle:Choose_item_outer->Choose_item_outer_dinner_3_3;
+choose:圆圆对蘑菇过敏，吃不了:3-3/33-4-food/33-4-food_a.txt|贾玉婕有带饭:3-3/33-4-food/33-4-food_b.txt|我喜欢你:3-3/33-4-food/33-4-food-2.txt|我没有喜欢的女孩:3-3/33-4-food/33-4-food-2.txt -when=chen_temp_dinner==1;
+applyStyle:Choose_item_outer->Choose_item_outer;
+applyStyle:Choose_item_outer->Choose_item_outer_dinner_3_3b;
+choose:贾玉婕有带饭:3-3/33-4-food/33-4-food_b.txt|我喜欢你:3-3/33-4-food/33-4-food-2.txt|我没有喜欢的女孩:3-3/33-4-food/33-4-food-2.txt;

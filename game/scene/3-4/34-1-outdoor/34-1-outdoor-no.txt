@@ -1,0 +1,4 @@
+
+:不管天气如何，我也依旧是高三生。我背起书包，向学校走去。;
+: -notend;
+changeScene:3-4/34-2-classroom/34-2-classroom-1.txt

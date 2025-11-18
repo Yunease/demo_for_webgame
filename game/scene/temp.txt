@@ -1,0 +1,14 @@
+
+changeBg:文学社みんちりえ/文化系の部室（夕方）.jpg;
+changeFigure:jia/jia-half.png -id=ss -animationFlag=on -mouthOpen=chen/chen_hh/punica04hh.png -mouthHalfOpen=chen/chen_kh/punica01kh.png;
+setAnimation:q_bigger -target=ss;
+角色名，留空以继承上句:对话22;
+setAnimation:bigger_out -target=ss;
+
+setVar:temp_a=10
+
+角色名，留空以继承上句213123213:qewqeqwewqewqe -when=temp_a>9;
+changeFigure:chen.png -next;
+setAnimation:bigger;
+setAnimation:bigger_out;
+角色名，留空以继承上句:对话sss;

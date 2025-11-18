@@ -1,0 +1,18 @@
+
+changeBg:black.png;
+changeBg:classroom/classroom03.jpg;
+bgm:music_bgm/Liebestraum No.3.mp3 -enter=10000;
+changeFigure:chen/chen_kk/punica01kk.png -transform={"position":{"y":180}} -next;
+:等了好一会，圆圆才气喘呼呼地跑过来。;
+changeFigure:chen/chen_kk/punica08kk.png -transform={"position":{"y":180}} -next;
+miniAvatar:chen.png;
+陈圆圆:{pname}，你给我带饭啦！你可真好呜呜呜...;
+changeFigure:chen/chen_hh/punica04hh.png -transform={"position":{"y":180}} -next;
+陈圆圆:数卷子好烦，我还以为今天晚上要饿肚子了。;
+changeFigure:chen/chen_hk/punica09hk.png -transform={"position":{"y":180}} -next;
+陈圆圆:我看看...哇！红烧肉烧蛋、鱼香肉丝，太好了，我最喜欢吃红烧肉了！;
+miniAvatar:none;
+:陈圆圆坐在你的身边，用勺子往嘴里扒饭，把腮帮子吃的鼓鼓囊囊的。;
+:好可爱，像只小仓鼠，我这么想着，突然想到季明月刚刚说的话。;
+applyStyle:Choose_item_outer->Choose_item_outer_chen_for2;
+choose:快点吃吧，还要上晚自习:3-2/32-6food/32-6food-5/32-6food-5-1-dislike.txt|圆圆，你喜欢吃什么？:3-2/32-6food/32-6food-5/32-6food-5-1-like.txt;

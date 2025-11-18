@@ -1,0 +1,7 @@
+setVar:tem_count=2;
+miniAvatar:ji.png;
+changeFigure:ji/ji_q/jsam03Q.png -right -id=ji -transform={"position":{"x":-700,"y":180}} -next;
+季明月:明天见。 -when=tem_count==1;
+季明月:拜拜。 -when=tem_count==2;
+miniAvatar:none;
+changeScene:3-1/scene2/scene2_5/scene2_5_end.txt

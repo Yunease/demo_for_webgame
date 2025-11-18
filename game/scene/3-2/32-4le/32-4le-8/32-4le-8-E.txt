@@ -1,0 +1,19 @@
+
+changeBg:三月二使用/电子屏三月二日04E.png -next;
+changeFigure:ji/ji_b/jsam01B.png -transform={"position":{"x":950,"y":180}} -next;
+miniAvatar:ji.png;
+季明月:你们来评价一下？;
+changeFigure:jia/jia_all/muta02k.png -transform={"position":{"x":900,"y":180}} -next;
+miniAvatar:jia.png;
+贾玉婕:感觉和我的差不多，都是分时间段举论证的例子。;
+changeFigure:chen/chen_hh/punica05hh.png -transform={"position":{"x":950,"y":180}} -next;
+miniAvatar:chen.png;
+陈圆圆:嗯...感觉挺好的？;
+changeFigure:ji/ji_b/jsam01B.png -transform={"position":{"x":950,"y":180}} -next;
+miniAvatar:none;
+:不温不火的评价，我看向季明月。;
+miniAvatar:ji.png;
+季明月:这就是标准的45分的作文，虽然理解不是很深但是非常板正。;
+changeFigure:ji/ji_b/jsam02B.png -transform={"position":{"x":950,"y":180}} -next;
+和贾玉婕一样，进步空间还是有的，不过在这个文学社里已经是合格标准了。;
+changeScene:3-2/32-4le/32-4le-9.txt

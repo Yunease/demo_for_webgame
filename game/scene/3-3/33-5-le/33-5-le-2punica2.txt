@@ -1,0 +1,34 @@
+
+miniAvatar:ji.png;
+季明月:吃太多肉的话，会消化不良的哦。;
+等会上课的时候，你的肚子就会咕噜咕噜的，我讲一道题，你就咕噜一下——听起来有点不妙啊。;
+changeFigure:ji/ji_n/jsam01N.png -id=ji -transform={"position":{"y":180}} -next;
+changeFigure:jia/jia_all/muta-W.png -right -id=jia -transform={"position":{"y":180}} -next;
+miniAvatar:none;
+bgm:music_bgm/The Fountain .mp3 -enter=10000;
+:未见其人声先至，我抬头，季明月和贾玉婕正推开门走进来。;
+changeFigure:chen/chen_hh/punica04hh.png -left -id=chen -transform={"position":{"y":180}} -next;
+:陈圆圆脸上露出了比哭还难看的笑容。;
+changeFigure:chen/chen_kk/punica11kk.png -left -id=chen -transform={"position":{"y":180}} -next;
+miniAvatar:chen.png;
+陈圆圆:啊......;
+changeFigure:ji/ji_q/jsam02Q.png -id=ji -transform={"position":{"y":180}} -next;
+miniAvatar:none;
+:季明月看见她放下了筷子，便向贾玉婕怒了怒嘴;
+changeFigure:jia/jia_all/muta02k.png -right -id=jia -transform={"position":{"y":180}} -next;
+miniAvatar:jia.png;
+贾玉婕:圆圆...我家里今天多做了份芹菜，你要不要试试？我没有吃过的。;
+miniAvatar:chen.png;
+changeFigure:chen/chen_hh/punica07hh.png -left -id=chen -transform={"position":{"y":180}} -next;
+陈圆圆:小玉！你太好了~;
+changeFigure:chen/chen_kk/punica14kk.png -left -id=chen -transform={"position":{"y":180}} -next;
+陈圆圆:哈哈，{pname}，这下我吃肉没有心理负担了~;
+choose:来这边坐吧:选择场景文件|今天讲什么题？:选择场景文件;
+miniAvatar:none;
+bgm:none -enter=1000;
+ :  -notend;
+changeFigure:none -left -id=chen -next;
+changeFigure:none -id=ji -next;
+changeFigure:none -right -id=jia -next;
+bgm:选择背景音乐 -enter=1000;
+changeScene:3-3/33-5-le/33-5-le-2punica3.txt

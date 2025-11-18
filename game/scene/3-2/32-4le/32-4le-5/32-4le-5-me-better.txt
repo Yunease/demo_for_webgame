@@ -1,0 +1,10 @@
+;
+changeFigure:jia/jia_all/muta03k.png -transform={"position":{"x":900,"y":180}} -next;
+miniAvatar:jia.png;
+贾玉婕:呃...{pname}，谢谢你，但是我觉得我的作文还没有好到那个程度。;
+changeFigure:jia/jia_all/muta-W.png -transform={"position":{"x":900,"y":180}} -next;
+miniAvatar:none;
+:贾玉婕开始摩挲自己的衣袖，你的夸奖让她更有压力了。;
+changeFigure:ji/ji_b/jsam02B.png -transform={"position":{"x":950,"y":180}} -next;
+:季明月看着你，轻轻摇了摇头，好像在说“你对待学问一点也不认真”。;
+changeScene:3-2/32-4le/32-4le-6.txt

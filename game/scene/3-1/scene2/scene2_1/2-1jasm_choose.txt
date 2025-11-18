@@ -1,0 +1,2 @@
+applyStyle:Choose_Main->Choose_Main_text,Choose_item->Choose_item_text;
+choose:A:3-1/scene2/scene2_1/choose/ab.txt|B:3-1/scene2/scene2_1/choose/ab.txt|C:3-1/scene2/scene2_1/choose/cd.txt|D:3-1/scene2/scene2_1/choose/cd.txt|E:3-1/scene2/scene2_1/choose/e.txt;

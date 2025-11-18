@@ -1,0 +1,10 @@
+applyStyle:Choose_item_outer->Choose_item_outer;
+changeFigure:none -next;
+changeFigure:chen/chen_hh/punica04hh.png -transform={"position":{"x":950,"y":180}} -next;
+miniAvatar:chen.png;
+陈圆圆:咋可能！我自己几斤几两我还不知道嘛？;
+changeFigure:none -next;
+changeFigure:ji/ji_b/jsam02B.png -transform={"position":{"x":950,"y":180}} -next;
+miniAvatar:none;
+:季明月冲你笑了一下，那个笑容的意思好像在说“客观一点，不要为了好感度瞎选”。;
+changeScene:3-2/32-4le/32-4le-3.txt

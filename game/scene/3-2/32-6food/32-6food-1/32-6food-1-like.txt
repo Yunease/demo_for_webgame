@@ -1,0 +1,5 @@
+
+changeFigure:ji/ji_q/jsam02Q.png -transform={"position":{"y":180}} -next;
+miniAvatar:ji.png;
+季明月:感谢你的喜欢。我觉得好胃口是好生活的基础，想来你肯定拥有一副好身体。;
+changeScene:3-2/32-6food/32-6food-2.txt

@@ -1,0 +1,9 @@
+
+
+changeFigure:ji/ji_q/jsam02Q.png -transform={"position":{"y":180}} -next;
+miniAvatar:ji.png;
+季明月:有不喜欢的吗？;
+choose:红烧肉烧蛋:选择场景文件|鱼香肉丝:选择场景文件|西红柿炒鸡蛋:选择场景文件|清炒时蔬:选择场景文件|紫菜蛋花汤:选择场景文件;
+changeFigure:ji/ji_q/jsam01Q.png -transform={"position":{"y":180}} -next;
+季明月:我知道了，我会反馈给食堂师傅的。;
+changeScene:3-2/32-6food/32-6food-2.txt

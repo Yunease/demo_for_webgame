@@ -1,0 +1,9 @@
+
+choose:其实，我对陈圆圆一无所知:选择场景文件;
+changeFigure:ji/ji_q/jsam01Q.png -transform={"position":{"y":180}} -next;
+miniAvatar:none;
+:季明月笑了笑，把盒饭放在你的旁边。;
+miniAvatar:ji.png;
+季明月:那你喜欢她吗？;
+applyStyle:Choose_item_outer->Choose_item_outer_ji_for1;
+choose:喜欢:3-2/32-6food/32-6food-4/32-6food-4-like.txt|不喜欢:3-2/32-6food/32-6food-4/32-6food-4-dislike.txt;

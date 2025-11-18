@@ -1,0 +1,15 @@
+setVar:chen_temp_dinner=0;
+changeBg:school corridor/school corridor03.jpg -next;
+:其实我对口腹之欲没什么热衷，只是晚饭是一天之内难得的休息时间。;
+:更何况食堂还有电视看，虽然看的是新闻联播，美其名曰积累时事素材，不过有娱乐总比没有娱乐强。;
+changeFigure:ji/ji_q/jsam01Q.png -transform={"position":{"y":180}} -next;
+bgm:music_bgm/moon-piano.mp3;
+miniAvatar:ji.png;
+季明月:嗨~{pname};
+choose:你怎么突然出现:选择场景文件|你吓了我一跳:选择场景文件;
+changeFigure:ji/ji_q/jsam02Q.png -transform={"position":{"y":180}} -next;
+季明月:吓到你了吗？抱歉抱歉。;
+changeFigure:ji/ji_q/jsam01Q.png -transform={"position":{"y":180}} -next;
+季明月:我出现在这里是想问你——你有空的话，愿意和我一起去吃晚餐吗？;
+applyStyle:Choose_item_outer->Choose_item_outer_dinner_3_2;
+choose:愿意:3-2/32-5zl/32-5zl-1-yes.txt|我想和陈圆圆一起吃:3-2/32-5zl/32-5zl-1-punica.txt|我想和贾玉婕一起吃:3-2/32-5zl/32-5zl-1-muta.txt|为什么:3-2/32-5zl/32-5zl-1-why.txt;

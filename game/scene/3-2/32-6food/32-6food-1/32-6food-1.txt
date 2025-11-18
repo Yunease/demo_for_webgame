@@ -1,0 +1,9 @@
+
+changeBg:canteen/canteen03.jpg -next;
+miniAvatar:none;
+:顺着人流，你来到了食堂。;
+食 堂:今日饭菜：红烧肉烧蛋、鱼香肉丝、西红柿炒鸡蛋、清炒时蔬、紫菜蛋花汤。;
+changeFigure:ji/ji_q/jsam01Q.png -transform={"position":{"y":180}} -next;
+miniAvatar:ji.png;
+季明月:你今天想吃什么？;
+choose:我都喜欢:3-2/32-6food/32-6food-1/32-6food-1-like.txt|......:3-2/32-6food/32-6food-1/32-6food-1-....txt|没我喜欢的:3-2/32-6food/32-6food-1/32-6food-1-dislike.txt;

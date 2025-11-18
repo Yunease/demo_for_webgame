@@ -1,0 +1,7 @@
+
+choose:贾玉婕也会离我们而去吗？:选择场景文件;
+miniAvatar:ji.png;
+季明月:......;
+miniAvatar:none;
+:她的回答就好像没有被书写的纸页——空无。;
+changeScene:3-4/34-5-jasm/34-5-jasm3.txt -when=fa_ji>1;

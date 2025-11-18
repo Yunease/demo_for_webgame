@@ -1,0 +1,4 @@
+
+changeFigure:none -next;
+:她好像没有看见你一样，径直冲向走廊打开的窗户，然后纵身一跃——;
+changeScene:3-4/34-4-punica-die/34-4-punica-die1.txt

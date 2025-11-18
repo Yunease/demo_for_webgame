@@ -1,0 +1,15 @@
+applyStyle:Choose_item_outer->Choose_item_outer;
+setVar:fa_jia=fa_jia+1;
+changeFigure:ji/ji_q/jsam03Q.png -transform={"position":{"y":180}} -next;
+miniAvatar:none;
+:季明月歪了歪头，好像在想什么事情，过了一会她又看向你。;
+changeBg:literature/literature04.jpg -next;
+changeFigure:jia/jia_all/muta-W.png -transform={"position":{"y":180}} -next;
+:你转头在劳动教室里寻找贾玉婕，却发现她正拿出一盒自己带的盒饭，端端正正地坐在课桌旁准备开吃了。;
+changeFigure: -next;
+changeFigure:ji/ji_n/jsam02N.png -transform={"position":{"y":180}} -next;
+miniAvatar:ji.png;
+季明月:啊，看来你不知道贾玉婕家里有保姆给她送饭。;
+changeFigure:ji/ji_q/jsam03Q.png -transform={"position":{"y":180}} -next;
+季明月:走吧，再不去食堂人就多起来了。;
+changeScene:3-2/32-6food/32-6food-1/32-6food-1.txt

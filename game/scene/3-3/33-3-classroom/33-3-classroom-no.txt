@@ -1,0 +1,5 @@
+applyStyle:Choose_item_outer->Choose_item_outer;
+:没有什么事比学习更重要了，或许不应该浪费那么多时间在吃饭上，今天要不去小卖铺买个鸡肉卷凑合一下好了。;
+:这么想着，我起身走出了教室。;
+changeBg:black.png;
+changeScene:3-3/33-5-le/33-5-le-2no.txt

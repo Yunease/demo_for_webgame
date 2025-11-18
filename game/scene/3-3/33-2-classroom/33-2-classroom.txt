@@ -1,0 +1,25 @@
+
+changeBg:classroom/classroom01.jpg -next;
+:教室里一如既往地熙熙攘攘，我穿过人群，把我的作业分门别类交给组长，再回到自己的座位上准备早读。;
+changeFigure:jia/jia_all/muta03k.png -transform={"position":{"y":180}} -next;
+miniAvatar:jia.png;
+贾玉婕:早上好,{pname}。;
+choose:你好:选择场景文件|早上好:选择场景文件;
+changeFigure:jia/jia_all/muta03k.png -transform={"position":{"y":180}} -next;
+贾玉婕:季明月早上和我说，文学社时间挪到第一节晚自习了，咱们直接去就行，班主任已经找值班老师说好了。;
+miniAvatar:none;
+:这意味着逃不了课，还占了写作业的时间，我心里有点烦闷。;
+changeFigure:jia/jia_all/muta01k.png -transform={"position":{"y":180}} -next;
+miniAvatar:jia.png;
+贾玉婕:她还说，要是觉得换教室很累的话，可以把作业带过去写，她和老师说她会看着我们几个人写作业的。;
+miniAvatar:none;
+:哇！这可真是实打实的好事，每天晚自习有值班老师巡逻，不能说话不能玩手机。;
+:如果去那个所谓的“八股文学社”的话，岂不是能一边听歌一边写作业了。;
+:而且，状元指导作业的机会也是不可多得啊，虽说她是文科生我们是理科生，好像也就能指导一下英语和语文，但要是能和聪明人一起学习，氛围肯定更好。 ;
+choose:谢谢你，贾玉婕:选择场景文件|以后就请多指教了:选择场景文件;
+changeFigure:jia/jia_all/muta-W.png -transform={"position":{"y":180}} -next;
+:她没说什么，向你点点头，又回到了她的位置。;
+: -notend;
+changeFigure:none -next;
+changeBg:black.png;
+changeScene:3-3/33-3-classroom/33-3-classroom-1.txt

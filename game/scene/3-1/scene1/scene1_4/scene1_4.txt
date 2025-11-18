@@ -1,0 +1,11 @@
+
+miniAvatar:chen.png;
+changeFigure:none -id=chen -next;
+changeFigure:chen/chen_kk/punica14kk.png -transform={"position":{"y":180}} -next;
+陈圆圆:走吧走吧，去面对二模！;
+miniAvatar:none;
+:我和圆圆一步深一步浅，踩着雪花走向学校。;
+bgm:none;
+changeFigure: -next;
+setTextbox:hide;
+changeScene:3-1/scene2/scene2_1/scene2_1.txt

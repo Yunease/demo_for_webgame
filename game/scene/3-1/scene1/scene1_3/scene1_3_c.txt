@@ -1,0 +1,8 @@
+
+miniAvatar:chen.png;
+changeFigure: -next;
+changeFigure:chen/chen_kh/punica12kh.png -id=chen -transform={"position":{"y":180}} -next;
+setAnimation:jump -target=chen -next;
+陈圆圆:哈哈哈，考完我就拉你去水房，打开净水器请你喝到饱。;
+miniAvatar:none;
+changeScene:3-1/scene1/scene1_4/scene1_4.txt

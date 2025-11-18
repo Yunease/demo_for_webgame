@@ -1,0 +1,9 @@
+
+changeFigure:chen/chen_hk/punica17hk.png -transform={"position":{"y":180}} -next;
+:她看见了你，停顿了一下。;
+changeFigure:chen/chen_hh/punica19hh.png -transform={"position":{"y":180}} -next;
+playEffect:开门-木门.mp3;
+:“咔哒”，班主任办公室的门又打开了。;
+changeFigure:none;
+:你还没看清是谁打开了门，陈圆圆却不再犹豫，径直冲向走廊打开的窗户，然后纵身一跃——;
+changeScene:3-4/34-4-punica-die/34-4-punica-die1.txt

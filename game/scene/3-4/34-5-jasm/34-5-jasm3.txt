@@ -1,0 +1,7 @@
+
+choose:你也会离我而去吗？:选择场景文件;
+miniAvatar:ji.png;
+季明月:......;
+季明月:我不否认，有这样的可能。;
+miniAvatar:none;
+changeScene:3-4/34-5-jasm/34-5-jasm4.txt;

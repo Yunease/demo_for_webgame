@@ -1,0 +1,21 @@
+
+miniAvatar:none;
+:你有预感，这是单独向她询问的好时机;
+choose:为什么要创建一个名字这么奇怪的社团？:选择场景文件;
+changeFigure:ji/ji_x/jsam01X.png -transform={"position":{"y":180}} -next;
+miniAvatar:ji.png;
+季明月:这件事我已经告诉你啦。如果没有发现的话，去别的地方找找看吧。;
+季明月:小提示：去看看  鉴赏  吧。;
+choose:为什么你们都穿的这么清凉:选择场景文件|即使现在是冬天？:选择场景文件;
+changeFigure:ji/ji_b/jsam01B.png -transform={"position":{"y":180}} -next;
+季明月:你不觉得光穿校服太无趣了么？;
+这里的天空灰扑扑的，每周都会下雪。;
+如果校服也是黑黑的，未免太乏味了。;
+choose:为什么:选择场景文件| 我   和   你 :选择场景文件|一直变来变去？:选择场景文件;
+changeFigure:ji/ji_x/jsam03X.png -transform={"position":{"y":180}} -next;
+季明月:因为 我 和 你 不一样啊。;
+如果有那么一天...我们可以聊聊这个话题，不过不是现在。;
+choose:为什么你可以成为清北候选:选择场景文件|状元的秘诀是什么？:选择场景文件;
+changeFigure:ji/ji_b/jsam02B.png -transform={"position":{"y":180}} -next;
+季明月:我没有什么特别的天赋，所学只是不断地重复罢了。;
+changeScene:3-3/33-4-food/33-4-food-4.txt

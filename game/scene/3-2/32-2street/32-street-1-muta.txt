@@ -1,0 +1,11 @@
+
+changeFigure:chen/chen_hh/punica07hh.png -transform={"position":{"y":180}} -next;
+miniAvatar:chen.png;
+陈圆圆:她真的好努力啊！;
+changeFigure:chen/chen_hh/punica04hh.png -transform={"position":{"y":180}} -next;
+昨天考完试我只想玩，她居然还有耐心看作文素材。;
+changeFigure:chen/chen_hk/punica02hk.png -transform={"position":{"y":180}} -next;
+我有时候晚自习去找她一起写作业，她能坐一整个晚上不带动的，中间休息也不出去。;
+changeFigure:chen/chen_kk/punica08kk.png -transform={"position":{"y":180}} -next;
+我昨天看了她的成绩，要是她的语文更好一些，她肯定能上国内最顶尖的那一批大学！;
+changeScene:3-2/32-2street/32-street-2.txt

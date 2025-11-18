@@ -1,0 +1,29 @@
+
+changeFigure:chen/chen_hk/punica17hk.png -transform={"position":{"y":180}} -next;
+:她看见了你，停下了脚步。;
+changeFigure:chen/chen_hh/punica16hh.png -transform={"position":{"y":180}} -next;
+miniAvatar:chen.png;
+陈圆圆:{pname}，我...我今天...;
+changeFigure:chen/chen_hk/punica17hk.png -transform={"position":{"y":180}} -next;
+miniAvatar:none;
+:她的眼泪又流了下来，过度呼吸让她说不出来完整的话。;
+choose:别急:选择场景文件|慢慢来:选择场景文件|没事的:选择场景文件|我在:选择场景文件;
+:你伸出手，想要擦掉她的眼泪。;
+changeFigure:chen/chen_hh/punica19hh.png -transform={"position":{"y":180}} -next;
+:“咔哒”，班主任办公室的门又打开了，圆圆下意识缩了一下肩，打断了你的动作。;
+:门里走出一位女士，看见你和陈圆圆站在一起，一个箭步冲了上来——;
+:“啪”，一记响亮的耳光扇在圆圆脸上。;
+陈红霞:贱货！怪不得考不上清北班，原来是谈恋爱去了！;
+:陈圆圆的妈妈抓住她的肩膀，狠狠地来回晃。;
+:“啪”！又一个耳光扇在她脸上。;
+陈红霞:我就说前几天看见你俩走大街上卿卿我我，瞧你那个嘚瑟样，给谁看呢？显你有人要了是吧？！;
+班主任:陈圆圆妈妈，冷静一点！这里是学校！有话好好说！;
+:那个女人猛地甩开班主任试图劝阻的手，唾沫横飞。;
+陈红霞:冷静？我怎么可能冷静！你这么做对得起我吗！对得起你爸吗！你对得起我们辛辛苦苦赚来的钱吗？;
+陈红霞:我们家的脸，算是让你给丢尽了！没皮没脸的货，你这现世宝，给我讨债来的......;
+changeFigure:chen/chen_hk/punica17hk.png -transform={"position":{"y":180}} -next;
+:圆圆一直被她抓着，没有任何反应，直到听到“讨债”两个字，她忽然爆发出惊人的力气，一把挣开了她妈妈的手。;
+？？？:哟？还反了你了！今天我不......;
+changeFigure:none -transform={"position":{"y":180}} -next;
+:陈圆圆不再犹豫，径直冲向走廊打开的窗户，然后纵身一跃——;
+changeScene:3-4/34-4-punica-die/34-4-punica-die1.txt

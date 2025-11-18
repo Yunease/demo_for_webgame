@@ -1,0 +1,4 @@
+applyStyle:Choose_item_outer->Choose_item_outer;
+
+:感觉再等就要迟到了，我背起书包往学校走去。;
+changeScene:3-2/32-3classroom/32-3classroom.txt

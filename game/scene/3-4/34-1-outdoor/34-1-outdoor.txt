@@ -1,0 +1,10 @@
+
+playEffect:ding-T .mp3;
+changeBg:black.png;
+changeBg:T-minus/4.png;
+changeBg:doorway/doorway02.jpg;
+:三月四日，阴。;
+:一如既往的冬天，不一样的天气。;
+:云黑沉沉的，压得天空降低了高度。这样的天气，感觉很难有好心情。;
+:今天要不要等等圆圆呢？;
+choose:等:3-4/34-1-outdoor/34-1-outdoor-wait.txt|不等:3-4/34-1-outdoor/34-1-outdoor-no.txt;

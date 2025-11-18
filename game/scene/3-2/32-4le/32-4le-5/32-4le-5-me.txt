@@ -1,0 +1,6 @@
+
+changeFigure:ji/ji_b/jsam01B.png -transform={"position":{"x":950,"y":180}} -next;
+miniAvatar:ji.png;
+季明月:那么，{pname}，你觉得她哪里需要改进？;
+applyStyle:Choose_item_outer->Choose_item_outer_jia_for2w3;
+choose:哪里都好:3-2/32-4le/32-4le-5/32-4le-5-me-better.txt|论点太少:3-2/32-4le/32-4le-6.txt|逻辑不清晰:3-2/32-4le/32-4le-6.txt;

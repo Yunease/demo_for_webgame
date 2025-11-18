@@ -1,0 +1,22 @@
+
+changeFigure:none -next;
+changeBg:literature/literature02.jpg -next;
+changeFigure:chen/chen_hk/punica06hk.png -transform={"position":{"y":180}} -next;
+miniAvatar:none;
+:陈圆圆把素材本收了起来，一路小跑回我身边。;
+:趁另外两个人不注意，她拉了拉我的衣服。;
+changeFigure:chen/chen_kk/punica14kk.png -transform={"position":{"y":180}} -next;
+miniAvatar:chen.png;
+陈圆圆:（小声）还不错嘛，我以为她会狠狠批评我来着。;
+changeFigure:ji/ji_b/jsam01B.png -transform={"position":{"y":180}} -next;
+miniAvatar:ji.png;
+季明月:下一个，你们俩谁先来？;
+changeFigure:jia/jia_all/muta03k.png -transform={"position":{"y":180}} -next;
+miniAvatar:jia.png;
+贾玉婕:我来吧。;
+changeFigure:jia/jia_all/muta-W.png -transform={"position":{"y":180}} -next;
+miniAvatar:none;
+:贾玉婕用校服长袖捂住了她的脸，然后走到讲台上，把她的错题本放在投影镜头下面。;
+:她好像很喜欢下意识地用袖子遮住嘴...就像在遮掩某种情绪...;
+:  -notend;
+changeScene:3-2/32-4le/32-4le-5/32-4le-5.txt

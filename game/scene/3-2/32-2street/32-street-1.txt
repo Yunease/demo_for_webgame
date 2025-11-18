@@ -1,0 +1,20 @@
+
+changeBg:winter/winter03.jpg -next;
+changeFigure:chen/chen_hk/punica06hk.png -transform={"position":{"y":180}} -next;
+changeFigure:none -next;
+:我和圆圆走出单元楼。雪在我俩脚下发出嘎吱嘎吱的声音。;
+:这就是我的一天，一个普通的高三生的一天。;
+:每一天都与试卷和习题为伴，所有的心思都花在如何提高分数上。;
+:日复一日，周而复始。;
+:早读、跑操、上课、考试、自习。;
+:这样的日常，我过了很久，将来也要过很久。;
+:也许人生也是这样一眼望到头...或者？;
+choose:我觉得你也不用太担心:选择场景文件|还有个奇怪的补课班在给我们辅导呢:选择场景文件;
+changeFigure:chen/chen_hk/punica02hk.png -transform={"position":{"y":180}} -next;
+miniAvatar:chen.png;
+陈圆圆:八股文学社吗？不过与其说是社团，不如说是状元亲自给我们开小灶...明月她人真好啊...;
+changeFigure:chen/chen_hh/punica04hh.png -transform={"position":{"y":180}} -next;
+我昨天考试的时候对着作文抓耳挠腮了半天，感觉要是在高考考场上早就超时了。果然立意才是作文最困难的地方啊。;
+changeFigure:chen/chen_kk/punica11kk.png -transform={"position":{"y":180}} -next;
+但是每次老师一讲立意，我就控制不住走神...根本听不懂一点啊！;
+choose:你觉得季明月怎么样？:3-2/32-2street/32-street-1-jasm.txt|你觉得贾玉婕怎么样？:3-2/32-2street/32-street-1-muta.txt;

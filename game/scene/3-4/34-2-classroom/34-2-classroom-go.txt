@@ -1,0 +1,22 @@
+applyStyle:Choose_item_outer->Choose_item_outer;
+setVar:fa_chen=fa_chen+1;
+changeBg:canteen/canteen03.jpg;
+:“啪嗒，啪嗒”。;
+:我走在走廊上，值日生留下的积水让脚步声格外清晰。;
+:没有别人，大家都在教室里早读，门隔绝了大部分声音，让走廊格外寂静。;
+:班主任办公室就在前面。;
+playEffect:开门-木门.mp3;
+:“咔哒”门突然被打开，走出来一个人。;
+changeFigure:chen/chen_hh/punica19hh.png -transform={"position":{"y":180}} -next;
+:是陈圆圆，我就这样轻易地找到她了。;
+changeFigure:chen/chen_hk/punica15hk.png -transform={"position":{"y":180}} -next;
+:我不禁有些怔愣：她双眼浮肿，脸上还挂着刚刚留下的泪痕，看着像哭了很久。;
+changeScene:3-4/34-3-punica-love/34-3-punica-love-1-2.txt -when=fa_chen==1;
+changeScene:3-4/34-3-punica-love/34-3-punica-love-1-2.txt -when=fa_chen==2;
+changeScene:3-4/34-3-punica-love/34-3-punica-love-3-5.txt -when=fa_chen==3;
+changeScene:3-4/34-3-punica-love/34-3-punica-love-3-5.txt -when=fa_chen==4;
+changeScene:3-4/34-3-punica-love/34-3-punica-love-3-5.txt -when=fa_chen==5;
+changeScene:3-4/34-3-punica-love/34-3-punica-love-6.txt -when=fa_chen==6;
+changeScene:3-4/34-3-punica-love/34-3-punica-love-6.txt -when=fa_chen>6;
+
+:此处输出的陈好感度为{fa_chen};

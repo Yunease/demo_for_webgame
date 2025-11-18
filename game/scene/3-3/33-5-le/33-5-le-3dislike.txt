@@ -1,0 +1,11 @@
+setVar:fa_ji=0;
+changeFigure:ji/ji_n/jsam04N.png -id=ji -transform={"position":{"y":180}} -next;
+miniAvatar:ji.png;
+季明月:可以。;
+changeFigure:ji/ji_q/jsam04Q.png -id=ji -transform={"position":{"y":180}} -next;
+你随时可以离开，抱歉，没有让你得到很好的游戏体验。;
+miniAvatar:none;
+changeFigure:none -id=ji -transform={"position":{"y":180}} -next;
+:她向你欠了欠身，离开你去到另外两个女孩身边了。;
+:一股虚无涌上心头，我迅速收拾好作业离开了八股文学社。;
+end;

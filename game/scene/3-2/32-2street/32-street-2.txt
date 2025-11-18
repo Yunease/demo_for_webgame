@@ -1,0 +1,19 @@
+
+changeFigure:chen/chen_hk/punica01hk.png -transform={"position":{"y":180}} -next;
+choose:虽然天赋这种事没办法:选择场景文件|但是人家既聪明又努力:选择场景文件;
+changeFigure:chen/chen_hh/punica04hh.png -transform={"position":{"y":180}} -next;
+miniAvatar:chen.png;
+陈圆圆:感觉在这些人身边呆一阵就能感受到她们的优秀...果然咱俩还是滚回卓越班吧;
+choose:黄河之水天上来:选择场景文件|圆圆滚回卓越班:选择场景文件;
+changeFigure:chen/chen_kh/punica12kh.png -transform={"position":{"y":180}} -next;
+陈圆圆:哼！敢咒我，看你爹我怎么收拾你！;
+miniAvatar:none;
+:她狠狠拍了拍你的后背，把你拍的直咳嗽。;
+:爽朗的笑声透着冬日的阳光撒来。;
+:好温暖...我不经抬起头，看向那个像太阳一样的女孩。;
+:她正放声大笑，肆意的青春冲破了某种屏障，到达了某人的心底。;
+:或许...高三的生活还有除了死板题目以外的东西。;
+bgm:none -enter=10000;
+changeFigure:none -next;
+changeBg:black.png;
+changeScene:3-2/32-3classroom/32-3classroom.txt

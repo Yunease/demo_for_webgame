@@ -1,0 +1,3 @@
+setVar:fa_chen=fa_chen+1;
+
+changeScene:3-2/32-4le/32-4le-3.txt;

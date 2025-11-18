@@ -1,0 +1,5 @@
+
+changeFigure:chen/chen_hk/punica02hk.png -transform={"position":{"x":950,"y":180}} -next;
+miniAvatar:chen.png;
+陈圆圆:我吗？我觉得还行，就是全篇只有一个论点有点怪？;
+changeScene:3-2/32-4le/32-4le-6.txt

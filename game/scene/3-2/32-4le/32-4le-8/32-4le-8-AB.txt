@@ -1,0 +1,21 @@
+
+changeBg:三月二使用/电子屏三月二日04B.png -next;
+changeFigure:ji/ji_b/jsam01B.png -transform={"position":{"x":950,"y":180}} -next;
+miniAvatar:ji.png;
+季明月:你们来评价一下？;
+changeFigure:chen/chen_kk/punica01kk.png -transform={"position":{"x":950,"y":180}} -next;
+miniAvatar:chen.png;
+陈圆圆:写的挺好的！;
+changeFigure:jia/jia_all/muta03k.png -transform={"position":{"x":900,"y":180}} -next;
+miniAvatar:jia.png;
+贾玉婕:我觉得写的很好，逻辑严密，层层递进。;
+changeFigure:ji/ji_b/jsam01B.png -transform={"position":{"x":950,"y":180}} -next;
+miniAvatar:none;
+:听着她俩的夸奖，我不禁挺起了胸膛。;
+:被美少女夸奖的感觉真好啊...我期待地看向季明月。;
+miniAvatar:ji.png;
+季明月:很好，是一篇48分以上的好文章了，看来你对作文的理解“开窍了”。;
+changeFigure:ji/ji_b/jsam02B.png -transform={"position":{"x":950,"y":180}} -next;
+三个分论点形成了完美的逻辑链：梦的本质→ 被赠予梦→ 赠予他人。全程紧扣“赠予”与“接受”的互动关系，非常契合材料。;
+上乘之作，如果你的每一篇作文都能写的这么好，你就要从这个“八股文学社”里毕业啦。;
+changeScene:3-2/32-4le/32-4le-9.txt

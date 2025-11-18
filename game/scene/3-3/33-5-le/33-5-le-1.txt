@@ -1,0 +1,9 @@
+
+changeBg:school corridor/school corridor03.jpg -next;
+:学校旧教学楼顶层，走廊尽头。一扇掉漆的木门上挂着歪斜的牌子——“劳动教室”。|;
+:已经来了两次的我熟门熟路，推开了教室的门。;
+changeBg:literature/literature04.jpg -next;
+changeFigure:chen/chen_hk/punica06hk.png -id=chen -transform={"position":{"y":180}} -next;
+:门开了，空荡荡的教室只有陈圆圆一个人。;
+changeFigure:none -id=chen;
+changeScene:3-3/33-5-le/33-5-le-2punica.txt

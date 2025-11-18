@@ -1,0 +1,24 @@
+applyStyle:Choose_item_outer->Choose_item_outer;
+changeFigure:ji/ji_n/jsam06N.png -transform={"position":{"y":180}} -next;
+miniAvatar:ji.png;
+季明月:{pname}，你觉得“喜欢”这种感情从何而来呢？;
+changeFigure:ji/ji_q/jsam06Q.png -transform={"position":{"y":180}} -next;
+一见钟情？蓄谋已久？日久生情？由爱生恨？人真是奇妙的生物。;
+changeFigure:ji/ji_q/jsam03Q.png -transform={"position":{"y":180}} -next;
+你的“喜欢”又是出于哪一种呢？我很好奇。;
+changeFigure:ji/ji_q/jsam06Q.png -transform={"position":{"y":180}} -next;
+如果我们的人生只是一部游戏的话，或许读者读到这里会大呼无聊了吧？;
+changeFigure:ji/ji_q/jsam05Q.png -transform={"position":{"y":180}} -next;
+日复一日的日常，认真到刻板的习题，连和美少女谈恋爱的时间都没有，相处的片刻居然是从早上出门和晚上吃饭挤出来的。;
+choose:但是这不是游戏:选择场景文件|这是我们的人生:选择场景文件;
+changeFigure:none -transform={"position":{"y":180}} -next;
+miniAvatar:none;
+:熙熙攘攘的人群里，季明月看着你，恍若整个世界只剩下你们二人。;
+changeFigure:ji/ji_q/jsam01Q.png -transform={"position":{"y":180}} -next;
+miniAvatar:ji.png;
+季明月:是啊，这是 我们 的人生。;
+changeFigure:ji/ji_q/jsam02Q.png -transform={"position":{"y":180}} -next;
+季明月:呵...正因为休息的时间是如此短暂，我在这里占用你难得的时间或许太不识趣了。;
+那我就先走了，等会文学社见。;
+choose:等等:选择场景文件;
+changeScene:3-3/33-4-food/33-4-food-3.txt

@@ -1,0 +1,4 @@
+applyStyle:Choose_item_outer->Choose_item_outer;
+changeScene:3-1/scene1/scene1_3/scene1_3.txt
+changeFigure:none;
+:  -notend;

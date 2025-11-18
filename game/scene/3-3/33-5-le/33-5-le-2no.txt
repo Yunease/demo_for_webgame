@@ -1,0 +1,28 @@
+
+
+changeBg:school corridor/school corridor03.jpg -next;
+:学校旧教学楼顶层，走廊尽头。一扇掉漆的木门上挂着歪斜的牌子——“劳动教室”。|;
+:已经来了两次的我熟门熟路，推开了教室的门。;
+changeBg:literature/literature04.jpg -next;
+changeFigure:chen/chen_hk/punica06hk.png -transform={"position":{"y":180}} -next;
+:门开了，空荡荡的教室只有陈圆圆一个人。;
+changeFigure:none;
+changeFigure:chen/chen_hk/punica06hk.png -right -id=chen -transform={"position":{"y":180}} -next;
+changeFigure:ji/ji_n/jsam01N.png -id=ji -transform={"position":{"y":180}} -next;
+changeFigure:jia/jia_all/muta-W.png -left -id=jia -transform={"position":{"y":180}} -next;
+:你坐了下来，不一会，贾玉婕和季明月一起来了。;
+choose:今天讲什么题？:选择场景文件;
+changeFigure:ji/ji_n/jsam02N.png -id=ji -transform={"position":{"y":180}} -next;
+季明月:今天我要看她们俩的作文，你就先自习吧。;
+:白跑一趟......我心里不由得埋怨起来。早知如此不如早早通知我，还能在教室安静的地方学，现在在这个社团里还得听她们叽叽喳喳的讨论声;
+changeFigure:jia/jia_all/muta02k.png -left -id=jia -transform={"position":{"y":180}} -next;
+贾玉婕:圆圆...我家里今天多做了份芹菜，你要不要试试？我没有吃过的。;
+changeFigure:chen/chen_hh/punica07hh.png -right -id=chen -transform={"position":{"y":180}} -next;
+陈圆圆:小玉！你太好了~我还以为今天要饿肚子了......;
+changeFigure:none -right -id=chen -transform={"position":{"y":180}} -next;
+changeFigure:none -id=ji -transform={"position":{"y":180}} -next;
+changeFigure:none -left -id=jia -transform={"position":{"y":180}} -next;
+:讨论还不够，现在还要吃饭，真是嫌不够热闹。;
+:一股怒气涌上心头，我迅速收拾好作业离开了八股文学社。;
+: ;
+changeScene:3-4/34-1-outdoor/34-1-outdoor.txt

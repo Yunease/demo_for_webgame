@@ -1,0 +1,18 @@
+
+changeFigure:none;
+miniAvatar:none;
+:终于排到你了，食堂大叔变戏法似的给你填满了饭盒。;
+changeBg:classroom/classroom03.jpg -next;
+:回到教室，望着饭盒里眼花缭乱的美味，你迫不及待地大快朵颐起来。 -when=temp_food==1;
+:回到教室，望着饭盒里臭烘烘的奇怪物体，你迫不及待地大快朵颐起来。 -when=temp_food==2;
+:回到教室，望着饭盒里不明所以的果冻类似物，你迫不及待地大快朵颐起来。 -when=temp_food==3;
+changeFigure:ji/ji_n/jsam01N.png -transform={"position":{"y":180}} -next;
+:季明月撑着手肘坐在一边，手里拿着一个粉嘟嘟的饭盒，上面还贴着几个小苹果贴画。;
+choose:你怎么不吃:选择场景文件|这是谁的饭盒:选择场景文件;
+miniAvatar:ji.png;
+季明月:这是陈圆圆的饭盒，刚才，她想让你帮她带份晚饭回来。 -when=chen_temp_dinner==1;
+季明月:这是陈圆圆的饭盒，在你没看见的地方，她想让你帮她带份晚饭回来。 -when=chen_temp_dinner==0;
+changeFigure:ji/ji_q/jsam03Q.png -transform={"position":{"y":180}} -next;
+今天的食堂有红烧肉烧蛋、鱼香肉丝、西红柿炒鸡蛋、清炒时蔬、紫菜蛋花汤，按照她的喜好，你不如猜猜这份盒饭里装了什么菜？;
+applyStyle:Choose_item_outer->Choose_item_outer_ji_for1;
+choose:肉菜:3-2/32-6food/32-6food-3/32-6food-3-meet.txt|素菜:3-2/32-6food/32-6food-3/32-6food-3-veg.txt|汤:3-2/32-6food/32-6food-3/32-6food-3-veg.txt|薄荷史莱姆:3-2/32-6food/32-6food-3/32-6food-3-shilaimu.txt;

@@ -1,0 +1,4 @@
+setVar:temp_food=2;
+changeFigure:ji/ji_q/jsam01Q.png -transform={"position":{"y":180}} -next;
+季明月:哦~原来你喜欢这个。;
+changeScene:3-2/32-6food/32-6food-2.txt

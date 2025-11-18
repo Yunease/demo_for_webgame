@@ -1,0 +1,21 @@
+setVar:fa_ji=fa_ji+1;
+applyStyle:Choose_item_outer->Choose_item_outer;
+changeFigure:ji/ji_n/jsam02N.png -transform={"position":{"y":180}} -next;
+miniAvatar:none;
+:季明月开心地拍了拍你的手。;
+changeFigure:ji/ji_n/jsam01N.png -transform={"position":{"y":180}} -next;
+miniAvatar:ji.png;
+季明月:那你可要记好了——要抓住女人的心，先抓住她的胃。;
+连她喜欢吃什么都记不住，怎么能说是在乎她呢？;
+choose:可是我真的不知道:选择场景文件;
+changeFigure:ji/ji_x/jsam01X.png -transform={"position":{"y":180}} -next;
+不知道，那就去问她，从现在开始，并不算晚。;
+changeFigure:ji/ji_n/jsam02N.png -transform={"position":{"y":180}} -next;
+这份盒饭送你啦——为喜欢的人用心，并不是一件羞耻的事情，要大大方方地说出来。;
+changeFigure:ji/ji_n/jsam02N.png -transform={"position":{"y":180}} -next;
+miniAvatar:none;
+:她拍了拍你的肩。;
+changeFigure:none -transform={"position":{"y":180}} -next;
+:等你从她刚刚说的话里回过味来，她已经不见了。;
+:真是神奇的女孩，我不禁想到。;
+changeScene:3-2/32-6food/32-6food-5/32-6food-5-1.txt

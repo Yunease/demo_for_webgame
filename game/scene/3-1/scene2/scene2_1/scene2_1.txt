@@ -1,0 +1,13 @@
+playEffect:上课铃.mp3 -volume=50;
+changeBg:3月1日/模考界面.png;
+changeBg:3月1日/考试试卷01.png;
+:   ;
+setTextbox:on;
+changeFigure:ji/jsamblakQ.png -transform={"position":{"y":180}} -next;
+？？？:你看起来很困惑？;
+其实这是一道选择题，毕竟不能让你真的提交1000字的作文给我嘛。;
+点击下一页吧。不用担心，我在下一页也有写题目。;
+changeFigure:none -next;
+:  -notend;
+changeBg:3月1日/new_考试卷.png;
+changeScene:3-1/scene2/scene2_1/2-1jasm.txt

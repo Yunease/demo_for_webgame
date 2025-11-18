@@ -1,0 +1,6 @@
+
+changeFigure:ji/ji_b/jsam02B.png -transform={"position":{"x":950,"y":180}} -next;
+miniAvatar:ji.png;
+季明月:哦？那你觉得...;
+applyStyle:Choose_item_outer->Choose_item_outer_chen_for2;
+choose:绝世佳作:3-2/32-4le/32-4le-2/32-4le-2-me-better.txt|尚可:3-2/32-4le/32-4le-2/32-4le-2-me-fa.txt|不行:3-2/32-4le/32-4le-3.txt;

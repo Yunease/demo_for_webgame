@@ -1,0 +1,11 @@
+applyStyle:Choose_item_outer->Choose_item_outer;
+bgm:none;
+changeFigure:chen/chen_hk/punica02hk.png -transform={"position":{"y":180}} -next;
+miniAvatar:chen.png;
+陈圆圆:哦...好...;
+miniAvatar:none;
+:漫长又不漫长的高三时光，每个节点都值得珍惜。;
+changeFigure: -next;
+:你看了一眼陈圆圆，不想把时间浪费在等她吃饭上，索性打开单词本开始背单词。;
+:夜，就这样过去了。;
+changeScene:3-3/33-1-door/33-1-door.txt

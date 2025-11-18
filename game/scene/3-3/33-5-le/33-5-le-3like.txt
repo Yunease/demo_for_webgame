@@ -1,0 +1,7 @@
+setVar:fa_ji=fa_ji+1;
+miniAvatar:ji.png;
+changeFigure:ji/ji_n/jsam01N.png -id=ji -transform={"position":{"y":180}} -next;
+季明月:你能喜欢这个地方，我觉得很开心。;
+changeFigure:ji/ji_n/jsam02N.png -id=ji -transform={"position":{"y":180}} -next;
+季明月:谢谢你，{pname}，谢谢你选了 喜欢  。;
+changeScene:3-3/33-5-le/33-5-le-4.txt

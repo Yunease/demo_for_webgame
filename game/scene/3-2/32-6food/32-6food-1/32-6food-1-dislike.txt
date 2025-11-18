@@ -1,0 +1,8 @@
+
+changeFigure:ji/ji_q/jsam01Q.png -transform={"position":{"y":180}} -next;
+miniAvatar:ji.png;
+季明月:这下可为难我了...理论上来说，这几道菜兼顾南北口味、老少咸宜、营养均衡，能让绝大多数中国人都能找到自己喜欢的味道。;
+changeFigure:ji/ji_q/jsam02Q.png -transform={"position":{"y":180}} -next;
+季明月:不过我准备了一份备用菜单，或许有你喜欢的味道。;
+setVar:temp_food;
+choose:三文鱼刺身:3-2/32-6food/32-6food-1/32-6food-1-de.txt|铁板牛排:3-2/32-6food/32-6food-1/32-6food-1-de.txt|红菜汤:3-2/32-6food/32-6food-1/32-6food-1-de.txt|冷盘三明治:3-2/32-6food/32-6food-1/32-6food-1-de.txt|鲱鱼罐头:3-2/32-6food/32-6food-1/32-6food-1-smell.txt|薄荷史莱姆:3-2/32-6food/32-6food-1/32-6food-1-un.txt;

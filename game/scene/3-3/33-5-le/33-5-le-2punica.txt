@@ -1,0 +1,34 @@
+
+bgm:music_bgm/little star.mp3 -enter=10000;
+miniAvatar:chen.png;
+changeFigure:chen/chen_kk/punica01kk.png -id=chen -transform={"position":{"y":180}} -next;
+miniAvatar:chen.png;
+陈圆圆:{pname}，你来啦。;
+changeFigure:chen/chen_hh/punica07hh.png -id=chen -transform={"position":{"y":180}} -next;
+陈圆圆:哇，这是什么？;
+choose:没有蘑菇的盒饭:选择场景文件|放心，没有蘑菇味:选择场景文件;
+changeFigure:chen/chen_hk/punica09hk.png -id=chen -transform={"position":{"y":180}} -next;
+陈圆圆:真的诶，我看看...哇，可乐鸡翅，蒜香排骨，腊肉花菜！P，你从哪里买的饭，好多肉，好香啊！;
+choose:教师食堂打的:选择场景文件|订了外卖:选择场景文件|我会魔法:选择场景文件|食堂开的小灶:选择场景文件;
+changeFigure:chen/chen_kh/punica12kh.png -id=chen -transform={"position":{"y":180}} -next;
+陈圆圆:嘿嘿嘿，谢谢你{pname}，我刚还觉得饿的头昏眼花，写不下去了，你就带着饭神兵天降来拯救我了！;
+changeFigure:chen/chen_kk/punica14kk.png -id=chen -transform={"position":{"y":180}} -next;
+陈圆圆:你最好了！你就是我的红烧肉救星！;
+choose:红烧肉救星是什么鬼啦！:选择场景文件|快吃饭吧，别贫嘴了。:选择场景文件;
+changeFigure:chen/chen_hk/punica09hk.png -id=chen -transform={"position":{"y":180}} -next;
+陈圆圆:那我就不客气啦！;
+changeFigure:chen/chen_kk/punica08kk.png -id=chen -transform={"position":{"y":180}} -next;
+miniAvatar:none;
+:她一撸袖子，对着可乐鸡翅发起冲锋。我看着她肉嘟嘟的手，忍不住捏了捏她的脸蛋。;
+choose:别吃太多肉:选择场景文件|真变成“圆圆”怎么办啊:选择场景文件;
+changeFigure:chen/chen_hh/punica04hh.png -id=chen -transform={"position":{"y":180}} -next;
+miniAvatar:chen.png;
+陈圆圆:肉好吃嘛！;
+changeFigure:chen/chen_hh/punica05hh.png -id=chen -transform={"position":{"y":180}} -next;
+陈圆圆:再说了，你还因为我变胖了嫌弃我不成？;
+changeFigure:chen/chen_kk/punica14kk.png -id=chen -transform={"position":{"y":180}} -next;
+miniAvatar:none;
+:这话可把我问住了，圆圆见我反驳不了她，朝我“略”地吐了一口舌头。;
+changeFigure:none -id=chen -transform={"position":{"y":180}} -next;
+bgm: -enter=1000;
+changeScene:3-3/33-5-le/33-5-le-2punica2.txt

@@ -1,0 +1,19 @@
+applyStyle:Choose_item_outer->Choose_item_outer;
+setVar:fa_chen=fa_chen+1;
+setVar:chen_temp_dinner=1;
+changeFigure:ji/ji_q/jsam03Q.png -transform={"position":{"y":180}} -next;
+miniAvatar:none;
+:季明月歪了歪头，好像在想什么事情，过了一会她又看向你。;
+changeBg:literature/literature04.jpg -next;
+changeFigure:chen/chen_kk/punica01kk.png -transform={"position":{"y":180}} -next;
+:你转头在劳动教室里寻找陈圆圆，却发现她正向你挥手。;
+changeFigure:chen/chen_hh/punica04hh.png -transform={"position":{"y":180}} -next;
+miniAvatar:chen.png;
+陈圆圆:{pname}！刚刚老师喊我去帮忙数试卷，你帮我打份饭吧！;
+changeFigure: -next;
+miniAvatar:none;
+:说罢，不给你反应的时间，陈圆圆匆匆忙忙地从教室后门离开了。;
+changeFigure:ji/ji_n/jsam02N.png -transform={"position":{"y":180}} -next;
+miniAvatar:ji.png;
+季明月:看来这下你有空了呢，我们走吧。;
+changeScene:3-2/32-6food/32-6food-1/32-6food-1.txt

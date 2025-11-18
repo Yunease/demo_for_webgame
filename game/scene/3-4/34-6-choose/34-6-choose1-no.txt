@@ -1,0 +1,14 @@
+
+bgm:none;
+changeFigure:ji/ji_q/jsam04Q.png -transform={"position":{"y":180}} -next;
+miniAvatar:ji.png;
+季明月:是吗？成绩对于你而言居然这么重要吗？;
+choose:是:选择场景文件|对:选择场景文件;
+changeFigure:ji/ji_n/jsam04N.png -transform={"position":{"y":180}} -next;
+季明月:......;
+changeFigure:none -transform={"position":{"y":180}} -next;
+miniAvatar:none;
+:她一转身，消失了。;
+changeBg:classroom/classroom03.jpg -next;
+:虚无瞬间消散，一晃神，我回到了教室。;
+changeScene:3-4/34-END1/34-END1-1.txt

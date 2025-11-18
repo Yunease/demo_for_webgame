@@ -1,0 +1,11 @@
+setVar:fa_ji=fa_ji+1;
+applyStyle:Choose_item_outer->Choose_item_outer;
+changeFigure:ji/ji_q/jsam02Q.png -transform={"position":{"y":180}} -next;
+miniAvatar:ji.png;
+季明月:正解，她就爱吃这些。;
+:她用手在空气里画了一个“√”。;
+miniAvatar:ji.png;
+changeFigure:ji/ji_q/jsam01Q.png -transform={"position":{"y":180}} -next;
+miniAvatar:none;
+季明月:你真是一个合格的竹马。;
+changeScene:3-2/32-6food/32-6food-4/32-6food-4.txt

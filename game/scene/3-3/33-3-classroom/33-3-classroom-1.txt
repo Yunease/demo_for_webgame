@@ -1,0 +1,16 @@
+
+playEffect:下课铃.mp3 -volume=50;
+changeBg:classroom/classroom04.jpg -next;
+setTextbox:on;
+:“叮叮咚咚”;
+:下课铃响了。;
+:一晃神，一天又要过去了。随着老师讲完最后一道题，我收拾好桌子上散乱的东西，准备去食堂填饱肚子。;
+changeFigure:jia/jia_all/muta-W.png -transform={"position":{"y":180}} -next;
+:你一转头，余光无意间扫到贾玉婕，却发现她正拿出一盒自己带的盒饭，端端正正地坐在课桌旁准备开吃了。;
+changeFigure:none -next;
+:看来她是有自己带饭的习惯......不过如果早上带饭的话，到晚上不会放坏吗？;
+:怀着这个疑问，我从座位上起身。;
+:食堂...要不要叫上别人一起去呢？;
+applyStyle:Choose_item_outer->Choose_item_outer_chen_for2;
+setVar:chen_temp_dinner=0;
+choose:不叫:3-3/33-3-classroom/33-3-classroom-no.txt|叫陈圆圆:3-3/33-3-classroom/33-3-classroom-punica.txt;

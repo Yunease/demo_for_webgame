@@ -1,0 +1,10 @@
+
+changeFigure:chen/chen_hh/punica07hh.png -transform={"position":{"y":180}} -next;
+miniAvatar:chen.png;
+陈圆圆:她好利索啊！真不愧是大学霸，三下两下就说清楚了。;
+陈圆圆:好羡慕她啊，又漂亮又聪明。;
+changeFigure:chen/chen_hh/punica05hh.png -transform={"position":{"y":180}} -next;
+你说她这么优秀的人会有烦恼吗...;
+changeFigure:chen/chen_kk/punica08kk.png -transform={"position":{"y":180}} -next;
+我觉得，要是我能考到年纪第一，肯定从现在开始摆烂！;
+changeScene:3-2/32-2street/32-street-2.txt

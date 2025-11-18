@@ -1,0 +1,13 @@
+
+playEffect:下课铃.mp3 -volume=50;
+changeBg:classroom/classroom04.jpg -next;
+:“叮叮咚咚”;
+:考试结束铃响了，等老师一个个把卷子收走，我伸了伸懒腰，准备晃悠去八股文学社。;
+:其实我对这个社团还有点疑问——但身为可怜的高三生，考完试还要在晚饭之前见缝插针上一节自习实在是太难受了。;
+:能暂时的逃离写题的时光，去一个完全陌生的地方，还有三个美少女在身边，这难道不值得期待吗？;
+changeFigure:chen/chen_hk/punica06hk.png -transform={"position":{"y":180}};
+miniAvatar:chen.png;
+陈圆圆:{pname}，走吧，老师说了下一节课咱们不用上，去听季明月给咱们讲作文。;
+choose:嗯:选择场景文件|走吧:选择场景文件;
+miniAvatar:none;
+changeScene:3-2/32-4le/32-4le-1.txt

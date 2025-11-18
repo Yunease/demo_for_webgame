@@ -1,0 +1,7 @@
+
+changeFigure:ji/ji_n/jsam01N.png -id=ji -transform={"position":{"y":180}} -next;
+miniAvatar:ji.png;
+季明月:抱歉，要是没有这个名头，恐怕很难在这么繁忙的学业里找出这么一块时间，去单纯地浪费。;
+changeFigure:ji/ji_n/jsam02N.png -id=ji -transform={"position":{"y":180}} -next;
+如果你真的觉得很难，我也可以给你点提示，或者给你开点小灶。;
+changeScene:3-3/33-5-le/33-5-le-4.txt

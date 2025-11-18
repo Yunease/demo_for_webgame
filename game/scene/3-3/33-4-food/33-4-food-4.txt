@@ -1,0 +1,4 @@
+applyStyle:Choose_item_outer->Choose_item_outer_chen_for1;
+choose:你可以让食堂单独给圆圆做份饭吗？:3-3/33-4-food/33-4-food-4a.txt|她今天不太舒服:3-3/33-4-food/33-4-food-4b.txt -when=chen_temp_dinner==1;
+applyStyle:Choose_item_outer->Choose_item_outer;
+choose:她今天不太舒服:3-3/33-4-food/33-4-food-4b.txt;

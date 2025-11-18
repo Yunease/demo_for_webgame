@@ -1,0 +1,23 @@
+
+changeFigure: -next;
+changeBg:literature/literature02.jpg -next;
+changeFigure:jia/jia_all/muta-W.png -transform={"position":{"y":180}} -next;
+miniAvatar:none;
+:贾玉婕拿走了错题本，坐到你的身旁。她的校服微微拂过你的手臂。;
+changeFigure:jia/jia_all/muta04k.png -transform={"position":{"y":180}} -next;
+:好像还在上个星期，她还是对你而言遥不可及的存在......学习好、内敛的社交、优渥的家境，或许这种女孩在你人生中的多数时刻，都会犹如流星一般划过。;
+:你还记得她穿过大气层时绽开绚丽的烟花，但永远找不到星星落地的地方。;
+:但是来到八股文学社后，她又如此现实地坐在你的身边，近到你可以看清楚她脸上浅浅的痘印。;
+:恍惚间，你又闻见了她身上洗衣液的味道。;
+changeFigure:ji/ji_b/jsam01B.png -transform={"position":{"y":180}} -next;
+:季明月把白板上的字擦掉了起来，看向讲台下。;
+miniAvatar:ji.png;
+季明月:下一个...该轮到你啦，{pname}，检查你有没有认真考二模的时候到喽。;
+choose:我超勇的:选择场景文件|......:选择场景文件|献丑了:选择场景文件;
+季明月:我拭目以待。;
+changeFigure:none -next;
+miniAvatar:none;
+:你走到讲台上，拿出昨天写的作业——在一张纸上面。;
+changeScene:3-2/32-4le/32-4le-8/32-4le-8-AB.txt -when=temp_text==1;
+changeScene:3-2/32-4le/32-4le-8/32-4le-8-CD.txt -when=temp_text==2;
+changeScene:3-2/32-4le/32-4le-8/32-4le-8-E.txt -when=temp_text==3;

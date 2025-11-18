@@ -1,0 +1,7 @@
+applyStyle:Choose_item_outer->Choose_item_outer;
+changeFigure:ji/ji_q/jsam02Q.png -transform={"position":{"y":180}} -next;
+miniAvatar:ji.png;
+季明月:哦~这是只属于你的隐藏菜单，虽然我也不知道你为什么喜欢这个，但是很明显，这已经不是人类餐食的范畴了。;
+miniAvatar:none;
+:她用手在空气里画了一个“×”。;
+changeScene:3-2/32-6food/32-6food-4/32-6food-4.txt

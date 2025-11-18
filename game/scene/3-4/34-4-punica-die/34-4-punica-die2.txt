@@ -1,0 +1,5 @@
+
+changeBg:CG/punicacg_die.png -next;
+unlockCg:CG/punicacg_die.png;
+bgm:music_bgm/Come Sweet Death, Come（BWV 478）.mp3;
+changeScene:3-4/34-4-punica-die/34-4-punica-die3.txt

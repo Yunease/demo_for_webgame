@@ -1,0 +1,7 @@
+miniAvatar:chen.png;
+changeFigure: -next;
+changeFigure:chen/chen_hh/punica05hh.png -id=chen -transform={"position":{"y":180}} -next;
+setAnimation:jump -target=chen -next;
+陈圆圆:切~~别以为我不知道这是啥。你有本事买到手，我就给你酒钱。;
+miniAvatar:none;
+changeScene:3-1/scene1/scene1_4/scene1_4.txt
