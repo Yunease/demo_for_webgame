@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 changeBg:文学社みんちりえ/文化系の部室（夕方）.jpg;
 changeFigure:jia/jia-half.png -id=ss -animationFlag=on -mouthOpen=chen/chen_hh/punica04hh.png -mouthHalfOpen=chen/chen_kh/punica01kh.png;
@@ -13,11 +12,3 @@ changeFigure:chen.png -next;
 setAnimation:bigger;
 setAnimation:bigger_out;
 角色名，留空以继承上句:对话sss;
-=======
-intro:本游戏存在血腥，暴力和炫目场景|请16岁以下玩家在监护者陪同的情况下游玩|部分场景存在闪光，可能会诱发光敏癫痫 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
-changeBg:3月1日/电子屏三月一日03.png -transform={"colorRed":200,"colorBlue":32,"oldFilm":1,"reflectionFilm":1,"glitchFilm":1,"rgbFilm":1};
-;
-changeFigure:ji/jsam000.png -transform={"position":{"y":180},"dotFilm":1};
-applyStyle:TextBox_Background->TextBox_Background_forbad,text->text_forbad,outer->outer_forbad;
-数据数据溢出数据溢出:>> if (key_of_mor > 999) { world_line = NULL;
->>>>>>> 44579470d034cf9e155d2fff6db9b89cb9fdcc27

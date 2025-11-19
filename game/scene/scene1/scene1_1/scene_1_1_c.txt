@@ -1,3 +1,0 @@
-:小学那个戴着小麦克风、永远板着脸的班主任，她评判作文的唯一标准就是用了多少成语和好词好句。 -fontSize=default;
-:从那以后，“语文”两个字对我来说，就等同于“虚假”和“应试”。 -fontSize=default;
-changeScene:scene1/scene1_1/scene_1_1.txt

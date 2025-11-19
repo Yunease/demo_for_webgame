@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 Game_name:欢迎来到八股文学社;
-=======
-Game_name:欢迎使用WebGAL！;
->>>>>>> 44579470d034cf9e155d2fff6db9b89cb9fdcc27
 Game_key:badddfd4f1b391;
 Title_img:main.png;
 Title_bgm:music_bgm/moon-piano.mp3;

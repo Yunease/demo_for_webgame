@@ -1,8 +1,0 @@
-intro:还好赶上了......前排的学生已经在发卷子了 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
-playEffect:上课铃.mp3;
-changeBg:3月1日/考试试卷01.png;
-wait:1000;
-changeBg:3月1日/new_考试卷.png;
-setVar:count_text;
-applyStyle:Choose_Main->Choose_Main_text,Choose_item->Choose_item_text;
-choose:A:scene2/scene2_1/scene2_1_a.txt|B:scene2/scene2_1/scene2_1_a.txt|C:scene2/scene2_1/scene2_1_b.txt|D:scene2/scene2_1/scene2_1_b.txt|E:scene2/scene2_1/scene2_1_c.txt;

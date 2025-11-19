@@ -1,6 +1,0 @@
-
-miniAvatar:ji.png;
-changeFigure:ji/ji_b/jsam01B.png -id=ji -transform={"position":{"x":850,"y":180}} -next;
-季明月:它们也重要，但不是最重要的。;
-miniAvatar:none;
-changeScene:scene2/scene2_4/scene2_4.txt

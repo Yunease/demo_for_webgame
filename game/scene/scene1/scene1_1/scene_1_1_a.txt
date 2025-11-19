@@ -1,3 +1,0 @@
-:当然。 -fontSize=default;
-:背，不停地背，不是为了理解，只是为了在试卷上复刻出阅卷者想要的符号。|真是无聊，我讨厌这种感觉 -fontSize=default;
-changeScene:scene1/scene1_1/scene_1_1.txt

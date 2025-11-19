@@ -1,2 +1,0 @@
-changeScene:scene1/scene1_3/scene1_3.txt
-applyStyle:Choose_item_outer->Choose_item_outer;

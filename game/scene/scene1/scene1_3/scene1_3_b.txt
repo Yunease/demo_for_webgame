@@ -1,7 +1,0 @@
-miniAvatar:chen.png;
-changeFigure: -next;
-changeFigure:chen/chen_kh/punica12kh.png -id=chen -transform={"position":{"y":180}} -next;
-setAnimation:jump -target=chen -next;
-陈圆圆:不可以，咱们还没成年呢。;
-miniAvatar:none;
-changeScene:scene1/scene1_4/scene1_4.txt

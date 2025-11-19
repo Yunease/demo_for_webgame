@@ -1,6 +1,0 @@
-
-miniAvatar:ji.png;
-changeFigure:ji/ji_b/jsam02B.png -id=ji -transform={"position":{"x":850,"y":180}};
-季明月:正解。;
-miniAvatar:none;
-changeScene:scene2/scene2_4/scene2_4.txt

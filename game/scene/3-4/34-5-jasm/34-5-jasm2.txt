@@ -5,3 +5,4 @@ miniAvatar:ji.png;
 miniAvatar:none;
 :她的回答就好像没有被书写的纸页——空无。;
 changeScene:3-4/34-5-jasm/34-5-jasm3.txt -when=fa_ji>1;
+changeScene:3-4/34-5-jasm/34-5-jasm4.txt;
